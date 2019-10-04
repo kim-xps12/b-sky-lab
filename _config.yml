@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: B-SKY Lab
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -31,10 +31,30 @@ github_username:  kim-xps12
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
+#theme: jekyll-theme-minimal
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.16.6"
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 plugins:
   - jekyll-feed
-
+paginate: 3
+sidebar:
+    nav: "docs"
+    #  - title: "Title"
+    #    image: http://placehold.it/350x250
+    #    image_alt: "image"
+    #    text: "Some text here."
+    #  - title: "Another Title"
+    #    text: "More text here."
+    #    nav: sidebar-sample
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
