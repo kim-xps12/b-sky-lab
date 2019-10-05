@@ -46,6 +46,13 @@ defaults:
 plugins:
   - jekyll-feed
     - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+
 paginate: 3
 sidebar:
     nav: "docs"
