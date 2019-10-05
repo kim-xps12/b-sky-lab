@@ -1,5 +1,6 @@
 docs:
   - title: Getting Started
+    url: /docs/about_Getting_Started/
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
