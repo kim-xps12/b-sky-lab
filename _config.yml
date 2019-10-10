@@ -56,7 +56,7 @@ collections:
     output: true
     permalink: /tag/:name/
     filepath: /tag
-    layout: tag_index
+    layout: home
 
 paginate: 3
 sidebar:
