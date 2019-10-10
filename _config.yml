@@ -51,6 +51,12 @@ plugins:
   - jekyll-gist
   - jekyll-feed
 
+collections:
+  my_tags:
+    output: true
+    permalink: /tag/:name/
+    filepath: /tag
+    layout: tag_index
 
 paginate: 3
 sidebar:
