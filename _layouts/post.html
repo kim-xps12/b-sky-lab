@@ -15,7 +15,7 @@ sidebar:
 
     Tags : 
     {% for tag in page.tags %}
-    - <a href="{{ '/tags/' | append: tags | relative_url }}">{{ tag }}</a> &nbsp;
+    - <a href="{{ '/tags/' | append: tag | relative_url }}">{{ tag }}</a> &nbsp;
     <!--- - <a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag }}</a> &nbsp;--->
     {% endfor %}
 
