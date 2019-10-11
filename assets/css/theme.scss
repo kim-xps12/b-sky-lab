@@ -17,21 +17,22 @@
 //********************************************************
 
 // Several accent colors, choose one or create your own!
-$accent-color: #3CA2A2;    // original =)
+//$accent-color: #3CA2A2;    // original =)
 //$accent-color: #C38FD6;  // velvet
 //$accent-color: #8FD6B3;  // greenish
 //$accent-color: #35B4DE;  // bluish
 //$accent-color: #D2E354;  // yellowish
 //$accent-color: #52B54B;  // green
+$accent-color: #2491f0;
 
-$font-color: #dddddd;
-$background-color: #292929;
-$post-panel-color: #444;
-$footer-background-color: #292c2f;
+$font-color: #050505; //#dddddd;
+$background-color: #F5F5F5; //#292929;
+$post-panel-color: #FEFEFE;
+$footer-background-color: #3C3C3C;//#292c2f;
 $note-color: #87CEFA;
-$warning-color: #ffff00;
+$warning-color: #ff0000;
 // use this or pick any from /css/pics/background folder or from transparenttextures.com
-$background-pattern: 'random-grey-variations.png';
+$background-pattern: 'asphalt-light.png'; //'random-grey-variations.png';
 
 //********************************************************
 //                  Common styles
@@ -318,6 +319,7 @@ table.inner-borders {
 //                    Footer
 //********************************************************
 .footer {
+  color: #DDDDDD;
   text-align: center;
 }
 
