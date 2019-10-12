@@ -26,13 +26,13 @@
 $accent-color: #2491f0;
 
 $font-color: #050505; //#dddddd;
-$background-color: #FAFAFA; //#292929;
+$background-color: #FDFDFD;//#FAFAFA; //#292929;
 $post-panel-color: #FEFEFE;
-$footer-background-color: #8C8C8C;//#292c2f;
+$footer-background-color: #6088C6;//#78BBE6;//#8C8C8C;//#292c2f;
 $note-color: #87CEFA;
 $warning-color: #ff0000;
 // use this or pick any from /css/pics/background folder or from transparenttextures.com
-$background-pattern: 'asphalt-light.png'; //'random-grey-variations.png';
+$background-pattern: 'asfalt-light.png'; //'random-grey-variations.png';
 
 //********************************************************
 //                  Common styles
@@ -235,6 +235,9 @@ div.post-meta {
 //********************************************************
 //                    Header
 //********************************************************
+.header-distributed {
+  color: $footer-background-color;
+} 
 nav a {
   padding-top: 20px !important;
   padding-bottom: 20px !important;
@@ -243,6 +246,7 @@ nav a {
   font-family: Ubuntu;
   -webkit-transition: all 0.7s ease;
   transition: all 0.7s ease;
+
 }
 nav.navbar {
   -webkit-transition: all 0.7s ease;
@@ -254,7 +258,6 @@ nav.navbar.shrink {
 .navbar-brand {
   font-size: 30px;
   color: $accent-color;
-
 }
 nav.shrink a {
   padding-top: 10px !important;
