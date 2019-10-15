@@ -29,6 +29,18 @@ url: "https://kim-xps12.github.io" # the base hostname & protocol for your site,
 #twitter_username: jekyllrb
 github_username:  kim-xps12
 
+# Social Sharing
+twitter:
+  username               : &twitter "mmistakes"
+facebook:
+  username               : &facebook "michaelrose"
+  app_id                 :
+  publisher              :
+og_image                 : "site-logo.png" # Open Graph/Twitter default site image
+
+author:
+    github : kim-xps12
+    
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
