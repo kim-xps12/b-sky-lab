@@ -1,5 +1,12 @@
 
 <div class="sidebar ">
+
+  <h2><a href="{{ '/' | relative_url }}" style="color: #494E52;">Home</a></h2>
+
+  <h2><a href="{{ '/about/' | relative_url }}" style="color: #494E52;">About</a></h2>
+  
+  <h2><a href="{{ '/archive/' | relative_url }}" style="color: #494E52;">Archives</a></h2>
+
   <h2>Recent Posts</h2>
   <ul>
     {% for post in site.posts limit:5 %}
@@ -16,4 +23,5 @@
         <span>{{tag[0] }}</span></a></li>
     {% endfor %}
   </ul>
+
 </div>
