@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Blog archive
+permalink: /archive/
 ---
 <div class="page-content wc-container">
 	<div class="post">
