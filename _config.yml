@@ -73,6 +73,9 @@ analytics:
     tracking_id: "G-LX0RWLGPK6"
     anonymize_ip: false # default
 
+plugins:
+– jekyll-sitemap
+
 paginate: 3
     #  - title: "Title"
     #    image: http://placehold.it/350x250
