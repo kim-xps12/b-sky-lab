@@ -31,9 +31,9 @@ github_username:  kim-xps12
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "eternalfriend17"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : &facebook ""
   app_id                 :
   publisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
