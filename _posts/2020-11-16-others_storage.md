@@ -3,7 +3,7 @@ layout: post
 toc: true
 sidebar:
   nav: "docs"
-title: やっほー
+title: Storage
 date:  2020-07-29 03:37:48 +0900
 categories: [review]
 tags: [Technology]この
