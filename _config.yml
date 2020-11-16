@@ -43,9 +43,9 @@ author:
     
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 #theme: minima
-#remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 defaults:
   - scope:
