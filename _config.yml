@@ -61,6 +61,16 @@ plugins:
   - jekyll-gist
   - jekyll-include-cache
 
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-archives
+
 collections:
   my_tags:
     output: true
