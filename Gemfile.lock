@@ -258,6 +258,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-github-metadata
+  jekyll-include-cache
   minimal-mistakes-jekyll
 
 BUNDLED WITH
