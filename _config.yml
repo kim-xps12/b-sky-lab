@@ -45,7 +45,7 @@ author:
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 #theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.16.6"
+#remote_theme: "mmistakes/minimal-mistakes@4.16.6"
 defaults:
   - scope:
       path: ""
