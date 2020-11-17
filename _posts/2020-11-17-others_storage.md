@@ -5,8 +5,8 @@ sidebar:
   nav: "docs"
 title: このブログのフォトストレージ、どこにしよう問題
 date:  2020-11-17 03:37:48 +0900
-categories: [review]
-tags: [Technology][Review]
+categories: [Technology]
+tags: [Technology, Review]
 ---
 
 
