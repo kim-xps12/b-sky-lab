@@ -1,5 +1,6 @@
 ---
 layout: post
+classes: wide
 toc: true
 sidebar:
   nav: "docs"
@@ -48,4 +49,8 @@ Fig.3(b) Amazon Photoの画像UR(ry ![img](https://thumbnails-photos.amazon.co.j
 ## 追記
 
 コミットしてみたら1時間くらいはFig.3 (b)だけ生きてました。正直意外。でも次の日まで放置したら案の定リンク切れてましたね。困ったーーーー。とりあえず圧縮併用でGoogle Photoかなー
+
+## 更に追記
+
+よく考えたらGoogle Driveの無制限高画質モード、200kB/枚くらいに圧縮されてるので、15GBなら食い切らないのではという気がした。またはこのブログのリポジトリに写真も入れてしまうか。重そう。
 
