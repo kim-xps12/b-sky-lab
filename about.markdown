@@ -1,7 +1,7 @@
 ---
 layout: home
 title: About
-permalink: /about/本ブログ
+permalink: /about/
 ---
 
 
