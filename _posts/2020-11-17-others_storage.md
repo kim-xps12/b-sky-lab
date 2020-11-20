@@ -28,13 +28,13 @@ tags: [Technology, Review]
 
 Fig.1(a) 当初の予定のGoogle Photo
 
-![img](https://lh3.googleusercontent.com/pw/ACtC-3coVrL8Ku69CrdKXanN-OA11cvA-YxVjgjTw5C4iE0GqRpLvezZpxmgtGX4pJJGGPaxd5yli-ogOKpwwnaXNABVMyBja49kj6MKbWVkqNuW0SzJ4xZmFY12KHOG4lqLbrCdSL-4JuXnvlJ86rU-T8W7qg=w1219-h914-no?authuser=0)
+![img](https://lh3.googleusercontent.com/pw/ACtC-3eB6IYpZYe1Y-b0XPpnHdXoE0M-K7BVZOL-HjT755g1BSPJJbwVWVVLIbvhX11SfCbKyPhMzfR_dPCS6ymqrYvjz2Kgfe3v1nXP1armmeUexroRqvzL0OJMZpRlXaj3xAXe8zIiG_pBYmR5NBvasPDSXA=w1273-h843-no?authuser=0)
 
 
 
 Fig.1(b) Google Photoをimg タグで横幅の70%にしてみた
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3coVrL8Ku69CrdKXanN-OA11cvA-YxVjgjTw5C4iE0GqRpLvezZpxmgtGX4pJJGGPaxd5yli-ogOKpwwnaXNABVMyBja49kj6MKbWVkqNuW0SzJ4xZmFY12KHOG4lqLbrCdSL-4JuXnvlJ86rU-T8W7qg=w1219-h914-no?authuser=0" width="70%">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3eB6IYpZYe1Y-b0XPpnHdXoE0M-K7BVZOL-HjT755g1BSPJJbwVWVVLIbvhX11SfCbKyPhMzfR_dPCS6ymqrYvjz2Kgfe3v1nXP1armmeUexroRqvzL0OJMZpRlXaj3xAXe8zIiG_pBYmR5NBvasPDSXA=w1273-h843-no?authuser=0" width="70%">
 
 
 
