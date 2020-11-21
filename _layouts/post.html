@@ -12,17 +12,7 @@ sidebar:
     - <a href="{{ '/categories/' | append: category | relative_url }}">{{ category }}</a> &nbsp;
     {% endfor %}
     -->
-
-    <header class="page-header">
-      <h1>{{page.title}}</h1>
-      <dl class="dl-horizontal">
-        <dt>created</dt>
-        <dd>{{page.date | date : "%F"}}</dd>
-        <dt>last change</dt>
-        <dd>{{page.lastchange}}</dd>
-      </dl>
-    </header>
-
+   
     Tags : 
     {% for tag in page.tags %}
     - <a href="{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a> &nbsp;
@@ -30,6 +20,12 @@ sidebar:
     <!--- - <a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag }}</a> &nbsp;--->
     {% endfor %}
 
+    <dl class="dl-horizontal">
+      <dt>created</dt>
+      <dd>{{page.date | date : "%F"}}</dd>
+      <dt>last change</dt>
+      <dd>{{page.lastchange}}</dd>
+    </dl>
 
     {{ content }}
 </html>
