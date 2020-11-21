@@ -14,6 +14,14 @@
     {% include head/custom.html %}
     <link rel="shortcut icon" type="image/png" 
       href="{{ "/favicon.png"  | absolute_url }}">
+
+    <h1>{{page.title}}</h1>
+    <dl class="dl-horizontal">
+      <dt>created</dt>
+      <dd>{{page.date | date : "%F"}}</dd>
+      <dt>last change</dt>
+      <dd>{{page.lastchange}}</dd>
+    </dl>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
