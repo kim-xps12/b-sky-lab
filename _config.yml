@@ -84,6 +84,8 @@ analytics:
     tracking_id: "G-LX0RWLGPK6"
     anonymize_ip: false # default
 
+timezone: Asia/Tokyo
+
 paginate: 3
     #  - title: "Title"
     #    image: http://placehold.it/350x250
