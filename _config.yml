@@ -89,17 +89,17 @@ analytics:
 timezone: Asia/Tokyo
 
 #permalink: /:year/:month/
-pagination:
-  enabled: true
-  collection: 'posts'
-  indexpage: 'index'  
-  permalink: '/page/:num/'
-  per_page: 4
-  sort_reverse: true
-  sort_field: 'date'
+#pagination:
+#  enabled: true
+#  collection: 'posts'
+#  indexpage: 'index'  
+#  permalink: '/page/:num/'
+#  per_page: 4
+#  sort_reverse: true
+#  sort_field: 'date'
 
 
-#paginate: 5
+paginate: 5
     #  - title: "Title"
     #    image: http://placehold.it/350x250
     #    image_alt: "image"
