@@ -96,7 +96,7 @@ pagination:
   permalink: '/page/:num/'
   per_page: 4
   sort_reverse: true
-  sort_field: 'date'
+  sort_field: 'lastupdate'
 
 
 paginate: 5
