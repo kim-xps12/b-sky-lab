@@ -4,6 +4,8 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
+pagination: 
+  enabled: true
 title: このブログのフォトストレージ、どこにしよう問題 11/28追記
 date:  2020-11-17 22:14
 lastupdate: 2020-11-28 18:46
