@@ -90,6 +90,8 @@ timezone: Asia/Tokyo
 permalink: /:year/:month/
 pagination:
   enabled: true
+  collection: 'posts'
+  indexpage: 'index'  
   per_page: 4
   sort_reverse: true
   sort_field: 'date'
