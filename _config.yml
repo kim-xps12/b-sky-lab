@@ -87,7 +87,7 @@ analytics:
 
 timezone: Asia/Tokyo
 
-permalink: /:year/:month/
+#permalink: /:year/:month/
 pagination:
   enabled: true
   collection: 'posts'
