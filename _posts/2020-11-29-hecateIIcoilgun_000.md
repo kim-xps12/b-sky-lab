@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: Hecate IIを作ってコイルガンにする[第0回]
+title: 【第0回】Hecate IIを作ってコイルガンにする
 date: 2020-11-29 1:36
 firstposted: 2020-11-29 1:34
 categories: [Creation]
