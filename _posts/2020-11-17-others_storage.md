@@ -8,7 +8,7 @@ pagination:
   enabled: true
 title: このブログのフォトストレージ、どこにしよう問題（11/28追記）
 date: 2020-11-28 22:02
-firstpost: 2020-11-17 22:14
+firstposted: 2020-11-17 22:14
 categories: [Technology]
 tags: [Technology, Review]
 ---

@@ -22,7 +22,7 @@ pagination:
     <!--- - <a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag }}</a> &nbsp;--->
     {% endfor %}
 
-    <dt>Last update: {{page.date}} / Created : {{page.firstpost}}</dt>
+    <dt>Last update: {{page.date| date: "%Y-%m-%d %R"}} / First Posted : {{page.firstposted| date: "%Y-%m-%d %R"}}</dt>
 
     {{ content }}
 </html>
