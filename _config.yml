@@ -86,7 +86,7 @@ analytics:
 
 timezone: Asia/Tokyo
 
-paginate: 3
+paginate: 5
     #  - title: "Title"
     #    image: http://placehold.it/350x250
     #    image_alt: "image"
