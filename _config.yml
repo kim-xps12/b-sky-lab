@@ -56,8 +56,8 @@ defaults:
         nav: "docs"
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-#  - jekyll-paginate-v2
+#  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
