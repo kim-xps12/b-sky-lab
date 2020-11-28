@@ -5,8 +5,8 @@ toc: true
 sidebar:
   nav: "docs"
 title: Hecate IIを作ってコイルガンにする[第0回]
-date: 2020-11-28 18:24
-firstposted: 2020-11-28 18:24
+date: 2020-11-29 1:36
+firstposted: 2020-11-29 1:34
 categories: [Creation]
 tags: [Creation, HecateII, Coilgun]
 ---
