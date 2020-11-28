@@ -89,10 +89,10 @@ analytics:
 timezone: Asia/Tokyo
 
 #permalink: /:year/:month/
+permalink: /:categories/:year/:month/:title.html
 pagination:
   enabled: true
   collection: 'posts'
-  indexpage: 'index'  
   permalink: '/page/:num/'
   per_page: 4
   sort_reverse: true
