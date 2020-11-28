@@ -88,12 +88,12 @@ analytics:
 
 timezone: Asia/Tokyo
 
-permalink: /:categories/:year/:month/
+#permalink: /:categories/:year/:month/
 #permalink: /:categories/:year/:month/:title.html
 pagination:
   enabled: true
   collection: 'posts'
-  permalink: '/page/:num/'
+  #permalink: '/page/:num/'
   per_page: 4
   sort_reverse: true
   sort_field: 'date'
