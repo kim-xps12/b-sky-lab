@@ -5,8 +5,8 @@ toc: true
 sidebar:
   nav: "docs"
 title: Kobukiの開発環境をビルドするとエラーが出る
-date:  2020-11-28 18:24
-lastupdate: 2020-11-28 18:24
+date: 2020-11-28 18:24
+firstpost: 2020-11-28 18:24
 categories: [Technology]
 tags: [Technology, ROS]
 ---
