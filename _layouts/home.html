@@ -8,8 +8,8 @@ layout: archive
 
 {% assign sorted_posts = paginator.posts | sort:"lastupdate" %}
 
-<!-- {% for post in paginator.posts %} -->
-{% for post in sorted_posts %}
+{% for post in paginator.posts %} 
+<!-- {% for post in sorted_posts %}-->
   {% include archive-single.html %}
 {% endfor %}
 
