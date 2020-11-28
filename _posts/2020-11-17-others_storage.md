@@ -4,9 +4,9 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: このブログのフォトストレージ、どこにしよう問題
+title: このブログのフォトストレージ、どこにしよう問題 11/28追記
 date:  2020-11-17 22:14
-lastupdate: 2020-11-17 23:50
+lastupdate: 2020-11-28 18:46
 categories: [Technology]
 tags: [Technology, Review]
 ---
@@ -63,3 +63,8 @@ Fig.3(b) Amazon Photoの画像UR(ry ![img](https://thumbnails-photos.amazon.co.j
 
 よく考えたらGoogle Driveの無制限高画質モード、200kB/枚くらいに圧縮されてるので、15GBなら食い切らないのではという気がした。またはこのブログのリポジトリに写真も入れてしまうか。重そう。
 
+## iCloud 共有アルバム
+
+よく考えたらFig.2は共有設定かけてないのだから第三者が見られるわけない。というわけでiCloud共有アルバム経由で貼ってみます。共有アルバムをブラウザから開くと投稿者の名前が出てるのがきもちわるいのと、サムネ表示がなぜか均一な大きさじゃないことを除けば使い勝手が良い気がする。多分。これはMac乗り換えのメリットが一つ増えてしまった？
+
+<img src="https://cvws.icloud-content.com/S/AQlPjo-cOMZrXdQaorfGjTh4ncPh/IMG_0007.JPG?o=AvzMnNjByvNl5UYySZlwuJk6i0LHBs5_VL_hxCyUkdPn&v=1&z=https%3A%2F%2Fp16-content.icloud.com%3A443&x=1&a=CAogPg5malQdDHizmhRHXU7q9pbdWO8PD5e2o6CajYwte7ASZxCzi_nx4C4Ys6KM9-AuIgEAUgR4ncPhaiYlFNT5IKc6RS0YwNxx0SHvsRKTxVEOKHU9KtCWWDT7dPX-xpkICXIm1a2kshQ0LY9bz3cH3I2wxsTac_Qa8KXBXziR3jBKXxuLs5AvvCY&e=1606567530&r=1c52dedf-82f4-449d-8984-f4bdb2d091eb-16&s=V0EXosF2a8m6G58ItRhZXLJ16xc" width="70%">
