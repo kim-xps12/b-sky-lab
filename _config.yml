@@ -90,9 +90,9 @@ timezone: Asia/Tokyo
 #permalink: /:year/:month/
 pagination:
   enabled: true
-  per_page: 5
+  per_page: 4
   sort_reverse: true
-  sort_field: 'lastupdate'
+  sort_field: 'date'
   title: ':title'
   trail:
     before: 2
