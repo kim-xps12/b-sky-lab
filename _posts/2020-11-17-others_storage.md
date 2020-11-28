@@ -7,7 +7,7 @@ sidebar:
 pagination: 
   enabled: true
 title: このブログのフォトストレージ、どこにしよう問題（11/28追記）
-date: 2020-11-28 18:46
+date: 2020-11-28 22:02
 firstpost: 2020-11-17 22:14
 categories: [Technology]
 tags: [Technology, Review]
@@ -69,4 +69,8 @@ Fig.3(b) Amazon Photoの画像UR(ry ![img](https://thumbnails-photos.amazon.co.j
 
 よく考えたらFig.2は共有設定かけてないのだから第三者が見られるわけない。というわけでiCloud共有アルバム経由で貼ってみます。共有アルバムをブラウザから開くと投稿者の名前が出てるのがきもちわるいのと、サムネ表示がなぜか均一な大きさじゃないことを除けば使い勝手が良い気がする。多分。これはMac乗り換えのメリットが一つ増えてしまった？
 
-<img src="https://cvws.icloud-content.com/S/AQlPjo-cOMZrXdQaorfGjTh4ncPh/IMG_0007.JPG?o=AvzMnNjByvNl5UYySZlwuJk6i0LHBs5_VL_hxCyUkdPn&v=1&z=https%3A%2F%2Fp16-content.icloud.com%3A443&x=1&a=CAogPg5malQdDHizmhRHXU7q9pbdWO8PD5e2o6CajYwte7ASZxCzi_nx4C4Ys6KM9-AuIgEAUgR4ncPhaiYlFNT5IKc6RS0YwNxx0SHvsRKTxVEOKHU9KtCWWDT7dPX-xpkICXIm1a2kshQ0LY9bz3cH3I2wxsTac_Qa8KXBXziR3jBKXxuLs5AvvCY&e=1606567530&r=1c52dedf-82f4-449d-8984-f4bdb2d091eb-16&s=V0EXosF2a8m6G58ItRhZXLJ16xc" width="70%">
+<img src="https://cvws.icloud-content.com/S/AQlPjo-cOMZrXdQaorfGjTh4ncPh/IMG_0007.JPG?o=AnwJokml5UZfWufw_bsvKybDUOIu3h3MjkUg4PidktiD&v=1&z=https%3A%2F%2Fp16-content.icloud.com%3A443&x=1&a=CAogl0-efdHR-maAR_AVNDHMcIlJyCPQ6mKGyAlrG_oUlggSZxCI5o304C4YiP2g-eAuIgEAUgR4ncPhaibQm0hO2t0cD4o7XXb_koIWOPy2iOyHHoXOFXaHh05fuSdNxZeU7HImQQcqu0Gjcn7qWOjAXpR8rQDLefPsSeWwLaYP82xivQzTqshYLmo&e=1606572064&r=72c335f2-98e0-446f-9cc2-383d431195a2-22&s=bvKA7LN48I6RMcG_7SetfMmnogw" width="70%">
+
+
+
+と思っていたのですが、iCloud 共有フォトは時間経過で画像のURLが変化するっぽい。ブログ画像用には使えないわね。
