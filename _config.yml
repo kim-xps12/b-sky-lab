@@ -99,7 +99,7 @@ pagination:
   sort_field: 'date'
 
 
-#paginate: 5
+paginate: 5
     #  - title: "Title"
     #    image: http://placehold.it/350x250
     #    image_alt: "image"
