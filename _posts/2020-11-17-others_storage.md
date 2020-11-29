@@ -6,8 +6,8 @@ sidebar:
   nav: "docs"
 pagination: 
   enabled: true
-title: このブログのフォトストレージ、どこにしよう問題（11/28追記）
-date: 2020-11-28 22:02
+title: このブログのフォトストレージ、どこにしよう問題（11/29追記）
+date: 2020-11-29 11:03
 firstposted: 2020-11-17 22:14
 categories: [Technology]
 tags: [Technology, Review]
@@ -74,3 +74,11 @@ Fig.3(b) Amazon Photoの画像UR(ry ![img](https://thumbnails-photos.amazon.co.j
 
 
 と思っていたのですが、iCloud 共有フォトは時間経過で画像のURLが変化するっぽい。ブログ画像用には使えないわね。
+
+
+
+## Amazon Drive で共有をオンにして画像を新タブで開いたときのURL
+
+
+
+<img src="https://cnt-02.content-jp.drive.amazonaws.com/cdproxy/templink/F03m1NOQyv2aTXPAXCmSD_jC4I1t9gVQVnHNWu5VW-EpX92IB?viewBox=1380%2C914" width="70%">
