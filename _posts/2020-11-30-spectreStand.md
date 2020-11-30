@@ -53,5 +53,11 @@ MacBookの必須アクセサリとして有名なKickFlipをご存知でしょ�
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3d6gjUMJbiAQ_f3grGPcoUYTeN-1-hNrrsW-Sg-ctDvhgnA3NpIbkd1QvpCneF-qS3f85LxeePqzPGpXm3ZRsT8oZXROK-LZ18Rs6aVXCMxh3ARghf5wrzzUBhwC9h0x3hSPAiOGBfbpIgWcvnM0-bIFg=w1330-h914-no?authuser=0" width="70%" style="display: block; margin: auto;">
 
-ちゃんと折り畳めます。多少は出っ張りますが、鞄に入れる程度なら問題ありません。スタンドの構造と、図中下側（使う時に手前側にくる方）のすべり止めのおかげでキーボードを思いっきり叩いても全然たわみません。神。我ながらいいものができました。Thingiverseにもアップしておきましたので興味のある方はチェックしてみてください。リンクは[こちら](https://www.thingiverse.com/thing:4670288)。印刷する際にはΦ3のABS丸棒をご用意ください。
+ちゃんと折り畳めます。多少は出っ張りますが、鞄に入れる程度なら問題ありません。
+
+## 使用感とメリット／デメリット
+
+実際使ってみると、キーボードが超打ちやすいですし目線が上がるので画面見やすいです。すばら。心配していた剛性ですが、スタンドの構造と、図中下側（使う時に手前側にくる方）のすべり止めのおかげでキーボードを思いっきり叩いても全然たわみません。神。我ながらいいものができました。デメリットを挙げるなら、x360の逆パカギミックが使えなくなったことでしょうか。スタンドが思いっきり干渉するので、逆パカすると画面側が割れそうになります。iPadあるしどうせ使わないので問題にはならないんですけどね。
+
+Thingiverseにもアップしておきましたので興味のある方はチェックしてみてください。リンクは[こちら](https://www.thingiverse.com/thing:4670288)。印刷する際にはΦ3のABS丸棒をご用意ください。
 
