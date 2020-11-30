@@ -99,7 +99,7 @@ pagination:
   sort_field: 'lastupdate'
 
 
-paginate: 10
+paginate: 6
     #  - title: "Title"
     #    image: http://placehold.it/350x250
     #    image_alt: "image"
