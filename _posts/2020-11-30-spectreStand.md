@@ -7,8 +7,8 @@ sidebar:
 pagination: 
   enabled: true
 title: Spectre x360にもスタンドを貼りたい！
-date: 2020-11-21 23:32
-firstposted: 2020-11-18 22:54
+date: 2020-11-30 23:32
+firstposted: 2020-11-30 23:32
 categories: [Creation]
 tags: [DIY]
 ---
