@@ -41,6 +41,10 @@ Jetson Xavier NXで自律移動システムを構成するときに，IMUとし�
 
 
 ```
+sudo apt-get install libncurses5-dev
+dmesg --follow
+cd /usr/src/linux-headers-4.9.140-tegra-ubuntu18.04_aarch64/
+sudo make modules_prepare
 cd ~
 git clone https://github.com/xsens/xsens_mt.git
 cd xsens_mt/
@@ -61,8 +65,8 @@ sudo reboot now
 
 ## 参考サイト
 
-- ROS.org [xsens_driver] : [](http://wiki.ros.org/xsens_driver)
-- xavier cannot recognize xsens (Solved) : https://forums.developer.nvidia.com/t/xavier-cannot-recognize-xsens-solved/66673
+- ROS.org [xsens_driver] : [http://wiki.ros.org/xsens_driver](http://wiki.ros.org/xsens_driver)
+- xavier cannot recognize xsens (Solved) : [https://forums.developer.nvidia.com/t/xavier-cannot-recognize-xsens-solved/66673](https://forums.developer.nvidia.com/t/xavier-cannot-recognize-xsens-solved/66673)
 
-- A guide to solve USB serial driver problems on TX2 : https://forums.developer.nvidia.com/t/a-guide-to-solve-usb-serial-driver-problems-on-tx2/60787#5254939
-- Jetson NanoでMIDIを使うためにカーネルビルド : https://qiita.com/karaage0703/items/9bef6aeec9ad24f647c6
+- A guide to solve USB serial driver problems on TX2 : [https://forums.developer.nvidia.com/t/a-guide-to-solve-usb-serial-driver-problems-on-tx2/60787#5254939](https://forums.developer.nvidia.com/t/a-guide-to-solve-usb-serial-driver-problems-on-tx2/60787#5254939)
+- Jetson NanoでMIDIを使うためにカーネルビルド : [https://qiita.com/karaage0703/items/9bef6aeec9ad24f647c6](https://qiita.com/karaage0703/items/9bef6aeec9ad24f647c6)
