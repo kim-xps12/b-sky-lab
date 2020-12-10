@@ -25,7 +25,7 @@ Jetson Xavier NXで自律移動システムを構成するときに，IMUとし�
 
 ```fatal could not find proper mt device```
 
-と出てきてroslaunchしても値が取れません．```lsusb```を叩くとデバイス自体は見えているので，その先のドライバ周りが怪しそうです．
+と出てきてroslaunchしても値が取れません．```lsusb```を叩くとデバイス自体は見えていますが```/dev/ttyUSB0```は無いので，ドライバ周りが怪しそうです．
 
 
 
