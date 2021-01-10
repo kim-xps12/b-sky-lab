@@ -31,9 +31,7 @@ tags: [Technology, ROS, Jetson]
 
 SainSmart IMX219 AIカメラモジュールNVIDIA Jetson Nanoボード用8MPセンサー120度FoV ([amazonリンクはこちら](https://amzn.to/39iaJ2C]))
 
-<a href="https://www.amazon.co.jp/dp/B07WRC86XN/ref=as_li_ss_il?_x_encoding=UTF8&psc=1&linkCode=li3&tag=bskylab-22&linkId=86a2455b472bf4051e0de12d825f9ba0&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WRC86XN&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=bskylab-22&language=ja_JP"　 ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=bskylab-22&language=ja_JP&l=li3&o=9&a=B07WRC86XN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
+<a href="https://www.amazon.co.jp/dp/B07WRC86XN/ref=as_li_ss_il?_x_encoding=UTF8&psc=1&linkCode=li3&tag=bskylab-22&linkId=35ee6256154b8b25410b00b0ef75ef94&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WRC86XN&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=bskylab-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=bskylab-22&language=ja_JP&l=li3&o=9&a=B07WRC86XN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 
