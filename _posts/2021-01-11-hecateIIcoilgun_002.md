@@ -5,8 +5,8 @@ toc: true
 sidebar:
   nav: "docs"
 title: 【第2回】Hecate II コイルガン --CADモデルの前準備編--
-date: 2020-11-29 1:36
-firstposted: 2020-11-29 1:34
+date: 2021-01-11 08:12
+firstposted: 2021-01-11 08:12
 categories: [Creation]
 tags: [Creation, HecateII, Coilgun]
 ---
