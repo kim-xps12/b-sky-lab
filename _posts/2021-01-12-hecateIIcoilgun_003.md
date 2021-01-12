@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: 【第3回】Hecate II コイルガン --CADモデルの前準備編--
+title: 【第3回】Hecate II コイルガン --3DCADで設計編--
 date: 2021-01-12 21:44
 firstposted: 2021-01-12 21:44
 categories: [Creation]
