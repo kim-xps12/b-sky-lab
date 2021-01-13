@@ -5,15 +5,11 @@ toc: true
 sidebar:
   nav: "docs"
 title: 3Dプリンタ[Anycubic i3 mega]の紹介
-date: 2020-01-14 03:17
-firstposted: 2020-01-14 03:17
+date: 2021-01-14 03:17
+firstposted: 2021-01-14 03:17
 categories: [Technology]
 tags: [Review, Creation]
 ---
-
-
-
-## 3Dプリンタ高くないです
 
 
 
