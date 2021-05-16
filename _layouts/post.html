@@ -1,28 +1,35 @@
 ---
-layout: home
-author_profile: true
-sidebar:
-  nav: "docs"
-pagination:
-  enabled: true
+layout: default
 ---
+<div class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-<html>
-    <!--
-    Category : 
-    {% for category in page.categories %}
-    - <a href="{{ '/categories/' | append: category | relative_url }}">{{ category }}</a> &nbsp;
-    {% endfor %}
-    -->
-   
-    Tags : 
+  <header class="post-header">
+    <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
+    <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
+    <p class="post-meta">
+    {{ site.locales[site.default_locale].PostedInCategories }}
+    {% for cat in page.categories %}
+    <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>{% unless page.categories.last == cat %}, {% endunless %}
+    {% endfor %} 
+    {% if page.tags != empty %}
+    {{ site.locales[site.default_locale].Taggedwith }}
     {% for tag in page.tags %}
-    - <a href="{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a> &nbsp;
-    <!--- - <a href="{{ '/tags/' | append: tag | relative_url }}">{{ tag }}</a> &nbsp; --->
-    <!--- - <a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag }}</a> &nbsp;--->
+    <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>{% unless page.tags.last == tag %}, {% endunless %}
     {% endfor %}
+    {% endif %}
+    <time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
+    </time>
+    </p>
+  </header>
 
-    <dt>Last update: {{page.date| date: "%Y-%m-%d %R"}} / First Posted : {{page.firstposted| date: "%Y-%m-%d %R"}}</dt>
-
+  <article class="post-content" itemprop="articleBody">
     {{ content }}
-</html>
+  </article>
+  <hr />
+</div>
+
+
+{% include page_pagination.html%}
+{% include comments.html %}
+

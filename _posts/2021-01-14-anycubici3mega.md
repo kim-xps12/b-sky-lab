@@ -19,6 +19,9 @@ Hecate IIコイルガンを作るで設計がある程度できてきたわけ�
 
 Amazonの商品ページは[こちら](https://amzn.to/3oIWNVB)
 
+<!-- more -->
+
+
 <a href="https://www.amazon.co.jp/ANYCUBIC-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8F%96%E6%89%B1%E8%AA%AC%E6%98%8E%E6%9B%B8%E4%BB%98%E5%B1%9E-Titan%E6%8A%BC%E5%87%BA%E6%A9%9F-3DPrinter/dp/B07J5P3SP9/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=anycubic+i3+mega&qid=1610561832&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMFRVMkQxU1NENkJNJmVuY3J5cHRlZElkPUEwMTc0OTcxMjYzWlZGVFpFWExIRyZlbmNyeXB0ZWRBZElkPUEzTE1KMjhWRTJCWTBEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=li3&tag=bskylab-22&linkId=fd2d87ec415f13d11c307eeac99452f3&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07J5P3SP9&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=bskylab-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=bskylab-22&language=ja_JP&l=li3&o=9&a=B07J5P3SP9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 最近の流行りだとFlashforge製のAdventure3とかがありますが，i3 megaに比べるとちょっと高くて造形サイズが小さめです．その分ノズル交換がお手軽だったり箱型だからABSが反りにくかったり面倒な調整少なめでキレイに造形できたりメリットもありますので，作りたいものに合わせて買うといいと思います．特に決まってない人は正直Adventure3の方が無難みたいなところある．

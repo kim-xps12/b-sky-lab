@@ -1,129 +1,192 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+### Site info:
+title: B-SKY Lab #Freshman21
+tagline: 技術メモや制作物などを公開していきます #Another Jekyll theme, Freshman twenty-first
+author: 孔明@B-SKY Lab #Lijia Yu
+email: hello@gmail.com #yu@lijiayu.net
+description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Jekyll, theme, Freshman21"
+baseurl: "/freshman21" # the subpath of your site, e.g. /blog/
+url: "https://yulijia.net/freshman21" # the base hostname & protocol for your site
+locale: ja_JP
 
-title: B-SKY Lab
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/b-sky-lab" # the subpath of your site, e.g. /blog
-url: "https://kim-xps12.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+### Personal info and site tools info:
+twitter_username: B_SKY_Lab
 github_username:  kim-xps12
+disqus_shortname: B-SKY Lab
+favicon:     "/images/favicon.ico"
+aboutme: おっはもーにん。技術メモや制作物などを公開していくよ。 # these are shown on aboutme-sidebar.
+aboutme_photo: "/images/favicon.ico" #https://i.imgur.com/Mdc4szJl.jpg# your photo.
+google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
-# Social Sharing
-twitter:
-  username               : &twitter "B_SKY_Lab"
-facebook:
-  username               : &facebook ""
-  app_id                 :
-  publisher              :
-og_image                 : "site-logo.png" # Open Graph/Twitter default site image
 
-author:
-    github : kim-xps12
-    
-# Build settings
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "jp" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
+
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"
+      PostDate: "on "
+      Google_search: "Site Search"
+      Home: "Home"
+      About: "About"
+      Guestbook: "Guestbook"
+      Subscribe: "Subscribe"
+    cn:
+      Aboutme: "关于我"
+      Archives: "存档"
+      Blogroll: "良师益友"        
+      Categories: "分类目录"    
+      Copyright_Notice: "版权声明"
+      Recent_Posts: "近期文章"
+      Tags: "标签" 
+      Previous: "前一页"
+      Next: "后一页"
+      PostedInCategories: "目录:"   
+      Taggedwith: "| 标签:"
+      PostDate: "| 发表时间: "
+      Google_search: "站内搜索"
+      Home: "首页"
+      About: "关于"
+      Guestbook: "留言"
+      Subscribe: "订阅"
+    jp:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "前の記事"
+      Next: "次の記事"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"
+      PostDate: "on "
+      Home: "Home"
+      Google_search: "サイト内検索"
+      About: "About"
+      Guestbook: "Guestbook"
+      Subscribe: "Subscribe"
+    pl:
+      Aboutme: "O mnie"
+      Archives: "Archiwum"
+      Blogroll: "Odnośniki"
+      Categories: "Kategorie"
+      Copyright_Notice: "Prawa autorskie"
+      Recent_Posts: "Najnowsze wpisy"
+      Tags: "Tagi"
+      Previous: "Starsze"
+      Next: "Nowsze"
+      PostedInCategories: "Kategoria"
+      Taggedwith: "tagi"
+      PostDate: "on "
+      Google_search: "Wyszukiwarka"
+      Home: "Strona główna"
+      About: "O mnie"
+      Guestbook: "Księga gości"
+      Subscribe: "Subskrypcja"
+    kr:
+      Aboutme: "저자 소개"
+      Archives: "모든 게시물"
+      Blogroll: "참조 링크"
+      Categories: "카테고리"
+      Copyright_Notice: "저작권"
+      Recent_Posts: "최근 게시물"
+      Tags: "태그"
+      Previous: "이전 게시물"
+      Next: "다음 게시물"
+      PostedInCategories: "카테고리: "
+      Taggedwith: "태그: "
+      PostDate: "작성일: "
+      Google_search: "게시물 검색"
+      Home: "홈"
+      About: "소개"
+      Guestbook: "방명록"
+      Subscribe: "구독하기"
+    ru:
+      Aboutme: "Обо мне" # = 'About me'
+      Archives: "Архив"
+      Blogroll: "Ссылки" # = 'Links'
+      Categories: "Разделы"
+      Copyright_Notice: "Авторские права"
+      Recent_Posts: "Свежие посты"
+      Tags: "Теги"
+      Previous: "Предыдущий пост"          # = 'Previous post'
+      Next: "Следующий пост"               # = 'Next post'
+      PostedInCategories: "Опубликовано в" # = 'Posted in'
+      Taggedwith: "с тегами"
+      PostDate: ""
+      Google_search: "Поиск на Google"
+      Home: "Домой"
+      About: "О блоге"            # = 'About blog'
+      Guestbook: "Гостевая книга"
+      Subscribe: "Подписаться"
+    tr:
+      Aboutme: "Hakkımda"
+      Archives: "Arşivler"
+      Blogroll: "Bağlantılar"
+      Categories: "Kategoriler"
+      Copyright_Notice: "Telif Hakkı Bildirimi"
+      Recent_Posts: "Son Yazılar"
+      Tags: "Etiketler"
+      Previous: "Daha Eski"
+      Next: "Daha Yeni"
+      PostedInCategories: "Şuraya gönderildi:"
+      Taggedwith: "ve şöyle etiketlendi:"
+      PostDate: "şu tarihte:"
+      Google_search: "Sitede Ara"
+      Home: "Anasayfa"
+      About: "Hakkında"
+      Guestbook: "Konuk Defteri"
+      Subscribe: "Abone Ol"
+    id:
+      Aboutme: "Tentang Saya"
+      Archives: "Arsip"
+      Blogroll: "Blog teman"
+      Categories: "Kategori"
+      Copyright_Notice: "Legal Formal"
+      Recent_Posts: "Post Terkini"
+      Tags: "Tag"
+      Previous: "Lebih lama"
+      Next: "Lebih baru"
+      PostedInCategories: "Diposting di"
+      Taggedwith: "dan ditag"
+      PostDate: "pada "
+      Google_search: "Pencarian Situs"
+      Home: "Beranda"
+      About: "Tentang"
+      Guestbook: "Buku tamu"
+      Subscribe: "Langganan"
+
+### your Blogroll info, only name can shown on the page.
+
+Blogroll:
+      - name: Freshman
+        href: http://yulijia.net/freshman
+        title: Another Jekyll blog theme
+      - name: author's website
+        href: http://yulijia.net/
+        title: Lijia Yu's website
+
+
+### Build settings
 markdown: kramdown
-#theme: minimal-mistakes-jekyll
-#theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
-search: true
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-        sidebar:
-        nav: "docs"
-plugins:
-  - jekyll-feed
-#  - jekyll-paginate
-  - jekyll-paginate-v2
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-include-cache
-  - jekyll-seo-tag
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-paginate-v2
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-archives
-
-collections:
-  my_tags:
-    output: true
-    permalink: /tag/:name/
-    filepath: /tag
-    layout: home
-
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-LX0RWLGPK6"
-    anonymize_ip: false # default
-
-timezone: Asia/Tokyo
-
-#permalink: /:categories/:year/:month/
-permalink: /:categories/:year/:month/:day/:title.html
-pagination:
-  enabled: true
-  collection: 'posts'
-  permalink: '/page/:num/'
-  per_page: 4
-  sort_reverse: true
-  sort_field: 'lastupdate'
-
-
-paginate: 6
-    #  - title: "Title"
-    #    image: http://placehold.it/350x250
-    #    image_alt: "image"
-    #    text: "Some text here."
-    #  - title: "Another Title"
-    #    text: "More text here."
-    #    nav: sidebar-sample
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+#highlighter: pygments
+kramdown:
+        input: GFM
+        syntax_highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+excerpt_separator: <!-- more -->
