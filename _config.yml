@@ -187,13 +187,13 @@ markdown: kramdown
 kramdown:
         input: GFM
         syntax_highlighter: rouge
-plugins:
+plugins: #[jekyll-paginate]
   - jekyll-feed
-#  - jekyll-paginate
-  - jekyll-paginate-v2
+#  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
   - jekyll-seo-tag
 paginate: 5
-excerpt_separator: <!-- more -->
+#excerpt_separator: <!-- more -->
