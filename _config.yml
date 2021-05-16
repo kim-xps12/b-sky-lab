@@ -18,6 +18,11 @@ aboutme: # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/icon_mini.jpg" #https://i.imgur.com/Mdc4szJl.jpg# your photo.
 google_analytics_key: G-LX0RWLGPK6 # put YOUR key here to enable tracking! (blank to disable)
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-LX0RWLGPK6"
+    anonymize_ip: false # default
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
