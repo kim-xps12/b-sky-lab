@@ -65,17 +65,17 @@ locales:
 
 ### Build settings
 markdown: kramdown
-#highlighter: pygments
-#kramdown:
-#        input: GFM
-#        syntax_highlighter: rouge
+highlighter: pygments
+kramdown:
+        input: GFM
+        syntax_highlighter: rouge
 plugins: #[jekyll-paginate]
-#  - jekyll-feed
+  - jekyll-feed
 #  - jekyll-paginate-v2
   - jekyll-paginate
-#  - jekyll-sitemap
-#  - jekyll-gist
-#  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
   - jekyll-seo-tag
 paginate: 5
 excerpt_separator: <!-- more -->
