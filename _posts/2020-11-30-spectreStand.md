@@ -19,6 +19,8 @@ tags: [DIY]
 
 MacBookの必須アクセサリとして有名なKickFlipをご存知でしょうか？PC裏面に張り付けるタイプのスタンドで、本体の奥側を数センチ持ち上げることができます。この数センチのおかげで画面が見やすくなったり、キーボードに傾斜が付いてタイピングしやすくなったり、廃熱がよくなったり、インカメも持ち上がってビデオ会議の時に映りがよくなったりメリットがたくさんあります。
 
+<!-- more -->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yHtuw8zQEdw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"> </iframe>
 
 こちら参考動画。KickFlip以外にも種類がありますが、大抵の有名商品は！MacBookを！想定して作られています！！！！

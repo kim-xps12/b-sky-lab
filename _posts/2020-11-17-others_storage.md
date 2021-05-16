@@ -25,7 +25,7 @@ tags: [Technology, Review]
 
 基本的にiPhoneで写真を撮るのでiCloudから直接リンクを発行するか、Prime会員の特典をフル活用してAmazon Photoを使うか、の2択で考えています。とりあえず使ってみよ～（〇・▽・〇）
 
-
+<!-- more -->
 
 
 

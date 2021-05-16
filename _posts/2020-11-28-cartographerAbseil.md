@@ -17,6 +17,8 @@ tags: [Technology, ROS]
 
 Google Cartographerのインストール時に、これで地味にハマりました。2020年6月に関連パッケージのAbseil（C++拡張ライブラリ）が自動でインストールされなくなったらしいのが原因です。
 
+<!-- more -->
+
 まずは[公式リファレンス](https://google-cartographer-ros.readthedocs.io/en/latest/compilation.html)の手順に従ってダウンロードと関連パッケージのインストールを進めます。最後の```catkin_make_isolated --install --use-ninja```でビルドする前に、次の手順でAbseilと関連のパッケージマネージャをインストールします。インストールスクリプトがcartographerのディレクトリの中にあるので、それを利用します。
 
 パッケージマネージャのインストール：```sudo apt install stow```

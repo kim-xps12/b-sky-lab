@@ -19,7 +19,7 @@ tags: [Technology, ROS, Jetson]
 
 Jetson Xavier NXで自律移動システムを構成するときに，IMUとしてXsens社のMTi-30を使おうと思ったのですが，単に[xsens_driver](http://wiki.ros.org/xsens_driver)をaptでインストールするだけでは動かなかったのでメモをまとめます．
 
-
+<!-- more -->
 
 ## 症状
 
