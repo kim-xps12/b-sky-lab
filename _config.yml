@@ -4,9 +4,9 @@ tagline: #Another Jekyll theme, Freshman twenty-first
 author: B-SKY Lab #Lijia Yu
 email: hello@gmail.com #yu@lijiayu.net
 description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
-baseurl: "/b-sky-lab" #"/freshman21" # the subpath of your site, e.g. /blog/
-url: "https://kim-xps12.github.io" #"https://yulijia.net/freshman21" # the base hostname & protocol for your site
+baseurl: "/b-sky-lab" # the subpath of your site, e.g. /blog
+url: "https://kim-xps12.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#keywords: "Jekyll, theme, Freshman21"
 locale: ja_JP
 
 ### Personal info and site tools info:
@@ -50,13 +50,13 @@ markdown: kramdown
 #kramdown:
 #        input: GFM
 #        syntax_highlighter: rouge
-plugins: #[jekyll-paginate]
-  - jekyll-feed
+plugins: [jekyll-paginate]
+#  - jekyll-feed
 #  - jekyll-paginate-v2
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-include-cache
-  - jekyll-seo-tag
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-include-cache
+#  - jekyll-seo-tag
 paginate: 5
 #excerpt_separator: <!-- more -->
