@@ -13,7 +13,7 @@ locale: ja_JP
 twitter_username: B_SKY_Lab
 github_username:  kim-xps12
 disqus_shortname: B-SKY Lab
-favicon:     "/favicon.ico"
+favicon:     "/favicon.png"
 aboutme: # these are shown on aboutme-sidebar.
 aboutme_photo: "https://kim-xps12.github.io/b-sky-lab/images/favicon.ico" #https://i.imgur.com/Mdc4szJl.jpg# your photo.
 #google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
