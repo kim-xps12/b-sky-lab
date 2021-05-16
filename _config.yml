@@ -79,3 +79,4 @@ plugins: #[jekyll-paginate]
   - jekyll-seo-tag
 paginate: 5
 excerpt_separator: <!-- more -->
+search: true
