@@ -1,7 +1,7 @@
 ### Site info:
 title: B-SKY Lab #Freshman21
-tagline: 技術メモや制作物などを公開していきます #Another Jekyll theme, Freshman twenty-first
-author: 孔明@B-SKY Lab #Lijia Yu
+tagline: #Another Jekyll theme, Freshman twenty-first
+author: B-SKY Lab #Lijia Yu
 email: hello@gmail.com #yu@lijiayu.net
 description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
@@ -14,9 +14,9 @@ twitter_username: B_SKY_Lab
 github_username:  kim-xps12
 disqus_shortname: B-SKY Lab
 favicon:     "/images/favicon.ico"
-aboutme: おっはもーにん。技術メモや制作物などを公開していくよ。 # these are shown on aboutme-sidebar.
+aboutme: # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/favicon.ico" #https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+#google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
