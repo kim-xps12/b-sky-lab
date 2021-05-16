@@ -2,7 +2,7 @@
 title: B-SKY Lab #Freshman21
 tagline: #Another Jekyll theme, Freshman twenty-first
 author: B-SKY Lab #Lijia Yu
-email: #hello@gmail.com #yu@lijiayu.net
+#email: #hello@gmail.com #yu@lijiayu.net
 description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 baseurl: "/b-sky-lab" # the subpath of your site, e.g. /blog
 url: "https://kim-xps12.github.io" # the base hostname & protocol for your site, e.g. http://example.com
