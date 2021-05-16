@@ -59,4 +59,4 @@ plugins: [jekyll-paginate]
 #  - jekyll-include-cache
 #  - jekyll-seo-tag
 paginate: 5
-#excerpt_separator: <!-- more -->
+excerpt_separator: <!-- more -->
