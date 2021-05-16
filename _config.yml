@@ -16,7 +16,7 @@ disqus_shortname: B-SKY Lab
 favicon:     "/favicon.png"
 aboutme: # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/icon_mini.jpg" #https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: G-LX0RWLGPK6 # put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-182992327-1 # put YOUR key here to enable tracking! (blank to disable)
 
 analytics:
   provider: "google-gtag"
