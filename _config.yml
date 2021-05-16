@@ -16,7 +16,7 @@ disqus_shortname: B-SKY Lab
 favicon:     "/favicon.png"
 aboutme: # these are shown on aboutme-sidebar.
 aboutme_photo: "/favicon.png" #https://i.imgur.com/Mdc4szJl.jpg# your photo.
-#google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: G-LX0RWLGPK6 # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
@@ -65,7 +65,7 @@ locales:
 
 ### Build settings
 markdown: kramdown
-highlighter: pygments
+#highlighter: pygments
 kramdown:
         input: GFM
         syntax_highlighter: rouge
