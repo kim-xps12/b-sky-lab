@@ -33,7 +33,9 @@ tags: [Technology, 3dPrinter]
 
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLXV3bxpmQfXz_aIkPPQSL2tiN0tlvWzMvBtwXwiVR9848cN5_pinYAlwUD27iFj8CfZP7TQNBDz_DMtLLmZ5Me9gtNQpCKULPOgNn5y1hyVKBonqPyjG7UTtYQAnt1T7CMsYTtgJSKFzPak0Ldf8nAieQ=w1505-h914-no?authuser=0" width="70%" style="display: block; margin: auto;">
 
+寸法はこんな感じです．
 
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLU2eLVmxvsB3rKjgKbJBA1dpadyjCB9xYn_PVPpgMA5owUmXq8Pr2OycGgJjemhD_16vsblAH3tC7_vB0KeFg8dRyIAhLCV_u2EkojVqoXmOBnww0PyEHuMMp5L53aQ_LD_8u8UJeyaEkVB0KQHp6u7NQ=w817-h776-no?authuser=0" width="60%" style="display: block; margin: auto;">
 
 ## 印刷
 
