@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: Felix Pro 2にエンクロージャをつけたい
+title: Felix Pro 2に保温用エンクロージャをつけたい
 date: 2021-09-21 21:37
 firstposted: 2021-09-21 21:37
 categories: [Technology]
@@ -14,9 +14,11 @@ tags: [Technology, 3dprinter]
 
 
 ## 概要
-Felix Pro 2は普通に使うとビルドプレートが外気に晒される構造です．しかし，僕はロボのボディを印刷するのにABSを愛用しており，エンクロージャで保温して反りを抑えるのはマストなのです．純正でアクリル製のカッコいいエンクロージャが販売されていますが，驚くほど高価なのでダイソーの材料だけでお安く自作してみました．
+Felix Pro 2は普通に使うとビルドプレートが外気に晒される構造です．しかし，僕はロボのボディを印刷するのにABSを愛用しており，3Dプリンタを少し触ったことがある方はおなじみかと思いますが，エンクロージャで保温して反りを抑えるのはマストなのです．純正でアクリル製のカッコいいエンクロージャが販売されていますが，驚くほど高価なのでダイソーの材料だけでお安く自作してみました．
 
 <!-- more -->
+
+
 
 
 
@@ -30,9 +32,13 @@ Felix Pro 2は普通に使うとビルドプレートが外気に晒される構
 
 
 
+
+
 ## トラウマ
 
 実は以前使っていたAnycubic i3 megaにプラダンでエンクロージャを自作したことがあるのですが，保温性能が高すぎて本体の電源ユニットが熱暴走で壊れるなどしました（交換修理で直りました）．なので実はエンクロージャ自作は少しトラウマなのですが，公式が出しているのなら同じ構造なら耐えるだろう，ということでエンクロージャリベンジです．
+
+
 
 
 
@@ -92,6 +98,8 @@ Felix Pro 2は普通に使うとビルドプレートが外気に晒される構
 
 
 
+
+
 ## 材料紹介
 
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLV7nzUGJFtdMwwaDyDj2jniJeS5D1rkGt-XuE4fB0W-LoFVjhwOg0Lco3URwmbg3ZwDsYF2eKpzRHh56qEP1MAwaEvFJK7-KsyXZbj8jtw3lJZ_U1ZM329brpCfY1qfus3vHAX8Oktv544Mp-Rn-V9QEA=w687-h914-no?authuser=0" width="70%" style="display: block; margin: auto;">
@@ -110,6 +118,8 @@ Felix Pro 2は普通に使うとビルドプレートが外気に晒される構
 
 
 
+
+
 ## 印刷してみよう
 
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLW-0adXNxEPuUFW3t5MWpAgGXY2V94qWBeD-dXz9USF5ygvemQ3hKpHreqfQ35YOPD56ZLdrWHKv7ZbbOpPTopcuUQ5dLofxMOzqJ9YBLQONGPzvTXd3i5JqjyPreQjdfbt6Y4oxN9X3e8Ly9weVxgxjw=w687-h914-no?authuser=0" width="70%" style="display: block; margin: auto;">
@@ -117,6 +127,8 @@ Felix Pro 2は普通に使うとビルドプレートが外気に晒される構
 
 
 これは今作っているクモ型ロボットの脚パーツです．ラフト有りの印刷ではありますが，しっかり食いついて反ることなく印刷できました．
+
+
 
 
 
