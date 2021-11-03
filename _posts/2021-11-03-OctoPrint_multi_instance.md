@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: OctoPrintをマルチインスタンス立ち上げて複数プリンタを接続したい！ (How to to launch multi-instance OctoPrint and connect multiple printers!)
+title: OctoPrintをマルチインスタンス立ち上げて複数プリンタを接続したい！ (How to to launch multiple instance OctoPrint and connect multiple printers!)
 date: 2021-11-04 00:49
 firstposted: 2021-11-04 00:49
 categories: [Technology]
