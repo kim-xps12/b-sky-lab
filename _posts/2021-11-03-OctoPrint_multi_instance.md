@@ -268,8 +268,9 @@ backend webcam_hls
 
 ## 参考
 
-[1] OctoPrint公式サイト https://octoprint.org/
+[1] OctoPrint公式サイト [https://octoprint.org/](https://octoprint.org/)
 
-[2] Setting up OctoPrint on a Raspberry Pi for multiple printers http://thomas-messmer.com/index.php/14-free-knowledge/howtos/79-setting-up-octoprint-for-multiple-printers
+[2] Setting up OctoPrint on a Raspberry Pi for multiple printers [http://thomas-messmer.com/index.php/14-free-knowledge/howtos/79-setting-up-octoprint-for-multiple-printers](http://thomas-messmer.com/index.php/14-free-knowledge/howtos/79-setting-up-octoprint-for-multiple-printers)
 
-[3] USB-シリアル変換器のデバイスファイル名を固定する https://smdn.jp/electronics/udev_create_persistent_usb_device_symlink/
+[3] USB-シリアル変換器のデバイスファイル名を固定する [https://smdn.jp/electronics/udev_create_persistent_usb_device_symlink/]( https://smdn.jp/electronics/udev_create_persistent_usb_device_symlink/)
+
