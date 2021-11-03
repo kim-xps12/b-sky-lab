@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: 【第1回】Hecate II コイルガン --イントロダクション編--
+title: 【第1回】Hecate II コイルガン --イントロダクション編-- (Part 1 Hecate II Coil Gun --introduction--)
 date: 2020-11-29 1:36
 firstposted: 2020-11-29 1:34
 categories: [Creation]

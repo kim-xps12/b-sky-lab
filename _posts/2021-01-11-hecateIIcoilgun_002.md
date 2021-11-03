@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: 【第2回】Hecate II コイルガン --CADモデルの前準備編--
+title: 【第2回】Hecate II コイルガン --CADモデルの前準備編-- (Part 2 Hecate II Coil Gun --Preparation for CAD model--)
 date: 2021-01-11 08:12
 firstposted: 2021-01-11 08:12
 categories: [Creation]

@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: Felix Pro 2に保温用エンクロージャをつけたい
+title: Felix Pro 2に保温用エンクロージャをつけたい (How to make Enclosure for Felix Pro 2)
 date: 2021-09-21 21:37
 firstposted: 2021-09-21 21:37
 categories: [Technology]

@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: 【第3回】Hecate II コイルガン --3DCADで設計編--
+title: 【第3回】Hecate II コイルガン --3DCADで設計編-- (Part 3 Hecate II Coil Gun --3D CAD design--)
 date: 2021-01-12 21:44
 firstposted: 2021-01-12 21:44
 categories: [Creation]

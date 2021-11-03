@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 pagination: 
   enabled: true
-title: Jetson Xavier NXでXsensのデバイスが認識しない問題
+title: Jetson Xavier NXでXsensのデバイスが認識しない問題 ([Error] Xsens device not working @ Jetson Xavier NX)
 date: 2020-12-10 22:02
 firstposted: 2020-12-10 22:02
 categories: [Technology]

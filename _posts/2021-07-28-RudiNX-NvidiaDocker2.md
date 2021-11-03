@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: Rudi-NXにnvidia-docker2をインストールする
+title: Rudi-NXにnvidia-docker2をインストールする (How to install nvidia-docker2 @ Rudi-NX)
 date: 2021-07-28 03:29
 firstposted: 2021-07-28 03:29
 categories: [Technology]

@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 pagination: 
   enabled: true
-title: Jetson Xavier NXでNano向けカメラモジュールを使いたい
+title: Jetson Xavier NXでNano向けカメラモジュールを使いたい (Jetson Nano Camera Module test @ Jetson Xavier NX)
 date: 2021-01-11 07:10
 firstposted: 2021-01-11 07:10
 categories: [Technology]

@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 pagination: 
   enabled: true
-title: Jetson Xavier NXでOpenCVが見つからないエラー
+title: Jetson Xavier NXでOpenCVが見つからないエラー ([Error] OpenCV not found @ Jetson Xavier NX)
 date: 2021-01-11 07:25
 firstposted: 2021-01-11 07:25
 categories: [Technology]

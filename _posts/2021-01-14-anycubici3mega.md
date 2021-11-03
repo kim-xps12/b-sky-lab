@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: 3Dプリンタ[Anycubic i3 mega]の紹介
+title: 3Dプリンタ[Anycubic i3 mega]の紹介 (Review Anycubic i3 mega)
 date: 2021-01-14 03:17
 firstposted: 2021-01-14 03:17
 categories: [Technology]
