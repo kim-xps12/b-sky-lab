@@ -53,7 +53,7 @@ Ender 3やAnycubic i3 mega，そして我が家のFelix Pro 2など，標準でW
 
 ## OctoPrintのマルチインスタンス設定
 
-本題です．基本的な手順は参考サイト[[2]]( http://thomas-messmer.com/index.php/14-free-knowledge/howtos/79-setting-up-octoprint-for-multiple-printers)と同じですが，設定ファイルの場所が一部異なっています．今回の記事ではインスタンス2個分の作業をしていますので，3台以上のプリンタと接続したい場合は良きように読み替えてください．
+本題です．基本的な手順は参考サイト[[2]]( http://thomas-messmer.com/index.php/14-free-knowledge/howtos/79-setting-up-octoprint-for-multiple-printers)と同じですが，設定ファイルの場所が一部異なっています．今回の記事ではインスタンス2個分の作業をしていますので，3台以上のプリンタと接続したい場合は良きように読み替えてください．以降の手順は全てSSHでラズパイにログインした状態で行います．ラズパイに直接モニタとキーボードをつないで作業しても大丈夫です．
 
 
 
