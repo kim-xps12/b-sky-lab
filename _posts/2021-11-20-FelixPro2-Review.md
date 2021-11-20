@@ -4,9 +4,9 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: Felix Pro 2まとめ
-date: 2021-11-20 09:19
-firstposted: 2021-11-20 09:19
+title: 企業様から3Dプリンタを頂いた話（Felix Pro 2まとめ）
+date: 2021-11-20 09:24
+firstposted: 2021-11-20 09:24
 categories: [Technology]
 tags: [Technology, 3dprinter]
 ---
