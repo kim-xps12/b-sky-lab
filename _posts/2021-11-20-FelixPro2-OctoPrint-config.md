@@ -14,7 +14,7 @@ tags: [Technology, 3dprinter, Raspberry_pi]
 
 
 ## はじめに
-Felix Pro 2でOctoPrintを使って無線化しようとしたところ，デフォルトのプロファイルにはFelix Pro 2がなかったのでパラメータ類をまとめておきます．
+Felix Pro 2でOctoPrintを使って無線化しようとしたところ，デフォルトのプロファイルにはFelix Pro 2がなかったのでパラメータ類をまとめておきます．OctoPrint自体の導入は[このサイト](https://kurashi-note.com/post-8673/)や[このサイト](https://symamone-tec.com/octopi-procedure/)が詳しいです．
 
 <!-- more -->
 
