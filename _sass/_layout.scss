@@ -16,9 +16,7 @@
   text-align:center;
   a{
     &,
-    &:visited{
-      color: rgb(165, 45, 165);
-    }
+    &:visited
     &:hover {
       color: $brand-top-color; //$grey-color-dark
       border-bottom: 1px dotted;
@@ -58,7 +56,9 @@
 
   a{
     text-decoration: none;
-
+    &:visited {
+      color: rgb(165, 45, 165);
+    }
     &:hover {
       color: $text-color;
       text-decoration: none;
