@@ -16,7 +16,9 @@
   text-align:center;
   a{
     &,
-    &:visited
+    &:visited{
+      color: rgb(165, 45, 165);
+    }
     &:hover {
       color: $brand-top-color; //$grey-color-dark
       border-bottom: 1px dotted;
