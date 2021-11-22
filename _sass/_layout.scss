@@ -162,6 +162,12 @@
 .post-link {
   display: block;
   font-size: 38px;//42px;
+  a{
+    &,
+    &:visited{
+      color: purple;
+    }
+  }
 }
 
 
