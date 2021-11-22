@@ -56,9 +56,7 @@
 
   a{
     text-decoration: none;
-    &:visited {
-      color: rgb(165, 45, 165);
-    }
+
     &:hover {
       color: $text-color;
       text-decoration: none;
