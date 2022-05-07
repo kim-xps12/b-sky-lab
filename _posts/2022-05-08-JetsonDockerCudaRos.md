@@ -4,7 +4,7 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: Jetson Xavier NX上でOpenGLを呼び出せるROS環境をDocker環境で構築する (How to build a ROS Docker environment that can call OpenGL on Jetson Xavier NX)
+title: Jetson Xavier NX上でOpenGLを呼び出せるROS環境をDockerで構築する (How to build a ROS Docker environment that can call OpenGL on Jetson Xavier NX)
 date: 2022-05-08 06:22
 firstposted: 2022-05-08 06:22
 categories: [Technology]
