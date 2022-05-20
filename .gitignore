@@ -3,5 +3,8 @@
 .jekyll-metadata
 vendor
 _site
+*.mdp
+*.lock
 _posts/samples/*
 _posts/Picture/*
+_posts/*.txt
