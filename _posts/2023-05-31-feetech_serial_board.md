@@ -41,6 +41,10 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">たぶんできた！！<a href="https://twitter.com/hashtag/bsl_snake?src=hash&amp;ref_src=twsrc%5Etfw">#bsl_snake</a> <a href="https://t.co/kZHb0KsTPJ">pic.twitter.com/kZHb0KsTPJ</a></p>&mdash; 孔明 (@eternalfriend17) <a href="https://twitter.com/eternalfriend17/status/1643625806969618439?ref_src=twsrc%5Etfw">April 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+今回描いたpcbeのファイルは[私のリポジトリ](https://github.com/kim-xps12/bsl-snake-public/tree/master/hardware/board)からDLできます．
+ご利用は自己責任でお願いします．近いうちにヘビ型ロボットの図面もUP予定です．
+
+
 
 ## 材料リスト
 実体配線図まで描けたので，秋葉原にお買い物に行きましょう．M5のプロトモジュールは安い方ということでスイッチサイエンス版のリンクを載せていますが，千石電商の店舗でも買えます．
