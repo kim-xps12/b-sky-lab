@@ -19,6 +19,7 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 
 <!-- more -->
 
+
 ## コンセプト
 ヘビ型ロボットに組み込むために，以下のコンセプトで作ってみました．
 
@@ -30,6 +31,7 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 - サーボからのフィードバックの読み出しもサポートする
 
 
+
 ## 設計
 
 回路図はSTS3215の商品ページから，「FEETECH社デジタルサーボの使用方法」のPDFリンクを踏むと7ページ目上段に載っているものをそのまま使います．こうやって代替の回路図を載せてくれているのは非常に助かりますね！実際にはMAX485を3.3V版のMAX3485EDに差し替えて作りました．
@@ -37,6 +39,7 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 
 実体配線図はpcbeで描いています．KiCAD覚えたいーー！
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">たぶんできた！！<a href="https://twitter.com/hashtag/bsl_snake?src=hash&amp;ref_src=twsrc%5Etfw">#bsl_snake</a> <a href="https://t.co/kZHb0KsTPJ">pic.twitter.com/kZHb0KsTPJ</a></p>&mdash; 孔明 (@eternalfriend17) <a href="https://twitter.com/eternalfriend17/status/1643625806969618439?ref_src=twsrc%5Etfw">April 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 ## 材料リスト
@@ -52,12 +55,15 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 - Molex 5264-03: [千石のリンク](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0HWD)
 
 
+
 ## ブレッドボードで動作確認
 
 ブレッドボードで動作確認した際の様子がこちら！ちゃんと動いてるーーーーー！！！
 （動画は5V向けの485ドライバICですが）
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Feetechのシリアル変換基板はデカすぎるので、取説に載ってる回路で代替する予定。部品少ないので場所を抑えられそう！！！<a href="https://t.co/hst9rgBK9k">https://t.co/hst9rgBK9k</a><a href="https://twitter.com/hashtag/bsl_snake?src=hash&amp;ref_src=twsrc%5Etfw">#bsl_snake</a> <a href="https://t.co/hEiJ2gYCm9">pic.twitter.com/hEiJ2gYCm9</a></p>&mdash; 孔明 (@eternalfriend17) <a href="https://twitter.com/eternalfriend17/status/1635327057549987840?ref_src=twsrc%5Etfw">March 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 ## 気合で手ハンダ実装
 
@@ -73,6 +79,8 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 問題なく動いていますね！最＆高
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">自作のFeetechサーボ用シールドでSTS3215駆動ヨシ！！！！！<a href="https://twitter.com/hashtag/bsl_snake?src=hash&amp;ref_src=twsrc%5Etfw">#bsl_snake</a> <a href="https://t.co/XJmArrwm6s">pic.twitter.com/XJmArrwm6s</a></p>&mdash; 孔明 (@eternalfriend17) <a href="https://twitter.com/eternalfriend17/status/1643668238403010561?ref_src=twsrc%5Etfw">April 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 ## おわりに
 
