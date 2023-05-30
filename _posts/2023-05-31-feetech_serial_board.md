@@ -49,6 +49,8 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 - FEETECHサーボ STS3215: [秋月のリンク](https://akizukidenshi.com/catalog/g/gM-16312/)
 - PHコネクタ ベース付ポスト トップ型 2P B2B-PH-K-S: [秋月のリンク](https://akizukidenshi.com/catalog/g/gC-12802/)
 - RS485ドライバ MAX3485ED: [秋月のリンク](https://akizukidenshi.com/catalog/g/gI-16211/)
+- SOP8(1.27mm)DIP変換基板 金フラッシュ: [秋月のリンク](https://akizukidenshi.com/catalog/g/gP-05154/)
+- ICソケット ( 8P) (10個入): [秋月のリンク](https://akizukidenshi.com/catalog/g/gP-00017/)
 - トランジスタ 2SA1015GR 50V150mA (10個入): [秋月のリンク](https://akizukidenshi.com/catalog/g/gI-00882/)
 - リード型積層セラミックコンデンサー 0.1μF50V: [秋月のリンク](https://akizukidenshi.com/catalog/g/gP-00090/)
 - カーボン抵抗（7.5k 1本, 20k 1本, 2.2k 2本）: [秋月のリンク（めんどくさいので全部入り買ってます）](https://akizukidenshi.com/catalog/g/gR-07791/)
