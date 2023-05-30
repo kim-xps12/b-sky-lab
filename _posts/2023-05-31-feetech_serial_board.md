@@ -57,6 +57,7 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 - ICソケット ( 8P) (10個入): [秋月のリンク](https://akizukidenshi.com/catalog/g/gP-00017/)
 - トランジスタ 2SA1015GR 50V150mA (10個入): [秋月のリンク](https://akizukidenshi.com/catalog/g/gI-00882/)
 - リード型積層セラミックコンデンサー 0.1μF50V: [秋月のリンク](https://akizukidenshi.com/catalog/g/gP-00090/)
+- 三端子DC/DCレギュレーター 5V BP5293-50: [秋月のリンク](https://akizukidenshi.com/catalog/g/gM-11188/)
 - カーボン抵抗（7.5k 1本, 20k 1本, 2.2k 2本）: [秋月のリンク（めんどくさいので全部入り買ってます）](https://akizukidenshi.com/catalog/g/gR-07791/)
 - Molex 5264-03: [千石のリンク](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0HWD)
 
