@@ -8,7 +8,7 @@ title: Feetechのシリアルサーボをインターフェースボード無し
 date: 2023-05-31 01:00
 firstposted: 2023-05-31 01:00
 categories: [Technology]
-tags: [Technology, M5Stack]
+tags: [Technology, M5Stack, SnakeRobot, Robotics]
 ---
 
 ## はじめに
