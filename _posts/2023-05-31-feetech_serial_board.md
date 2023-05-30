@@ -26,8 +26,9 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 - M5Stackプロトモジュール上に実装する
 - 動かす対象のシリアルサーボはSTS3215として，これのみ動かせればOK
 - M5Stackからの入力はUARTで受け付け，他のインターフェースはなくてOK
-- 電源入力はJST PHの2ピンで受け取る
-- 信号入力はMolex 5263(2.5mmピッチシリーズの3ピン)で受け取る
+- 電源入力はJST PHの2ピンを用いる
+- M5Stack Core2と接続はGPIO（19番ピンをRX / 27番ピンをTX）を用いる
+- STS3215との接続はMolex 5264-03を用いる
 - サーボからのフィードバックの読み出しもサポートする
 
 
