@@ -26,8 +26,9 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 - M5Stackプロトモジュール上に実装する
 - 動かす対象のシリアルサーボはSTS3215として，これのみ動かせればOK
 - M5Stackからの入力はUARTで受け付け，他のインターフェースはなくてOK
-- 電源入力はJST PHの2ピンで受け取る
-- 信号入力はMolex 5263(2.5mmピッチシリーズの3ピン)で受け取る
+- 電源入力はJST PHの2ピンを用いる
+- M5Stack Core2と接続はGPIO（19番ピンをRX / 27番ピンをTX）を用いる
+- STS3215との接続はMolex 5264-03を用いる
 - サーボからのフィードバックの読み出しもサポートする
 
 
@@ -39,6 +40,10 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 
 実体配線図はpcbeで描いています．KiCAD覚えたいーー！
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">たぶんできた！！<a href="https://twitter.com/hashtag/bsl_snake?src=hash&amp;ref_src=twsrc%5Etfw">#bsl_snake</a> <a href="https://t.co/kZHb0KsTPJ">pic.twitter.com/kZHb0KsTPJ</a></p>&mdash; 孔明 (@eternalfriend17) <a href="https://twitter.com/eternalfriend17/status/1643625806969618439?ref_src=twsrc%5Etfw">April 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+今回描いたpcbeのファイルは[私のリポジトリ](https://github.com/kim-xps12/bsl-snake-public/tree/master/hardware/board)からDLできます．
+ご利用は自己責任でお願いします．近いうちにヘビ型ロボットの図面もUP予定です．
 
 
 
@@ -53,6 +58,7 @@ tags: [Technology, M5Stack, SnakeRobot, Robotics]
 - ICソケット ( 8P) (10個入): [秋月のリンク](https://akizukidenshi.com/catalog/g/gP-00017/)
 - トランジスタ 2SA1015GR 50V150mA (10個入): [秋月のリンク](https://akizukidenshi.com/catalog/g/gI-00882/)
 - リード型積層セラミックコンデンサー 0.1μF50V: [秋月のリンク](https://akizukidenshi.com/catalog/g/gP-00090/)
+- 三端子DC/DCレギュレーター 5V BP5293-50: [秋月のリンク](https://akizukidenshi.com/catalog/g/gM-11188/)
 - カーボン抵抗（7.5k 1本, 20k 1本, 2.2k 2本）: [秋月のリンク（めんどくさいので全部入り買ってます）](https://akizukidenshi.com/catalog/g/gR-07791/)
 - Molex 5264-03: [千石のリンク](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0HWD)
 
