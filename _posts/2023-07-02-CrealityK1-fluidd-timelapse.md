@@ -5,8 +5,8 @@ toc: true
 sidebar:
   nav: "docs"
 title: Creality K1のfluidd開放とタイムラプス設定
-date: 2023-07-02 24:00
-firstposted: 2023-07-02 24:00
+date: 2023-07-02 23:00
+firstposted: 2023-07-02 23:00
 categories: [Technology]
 tags: [Technology, 3dprinter, Creality]
 ---
