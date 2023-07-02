@@ -72,12 +72,18 @@ kramdown:
         syntax_highlighter: rouge
 plugins: #[jekyll-paginate]
   - jekyll-feed
-#  - jekyll-paginate-v2
+  - jekyll-paginate-v2
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
   - jekyll-seo-tag
-paginate: 5
+#paginate: 5
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+  sort_field: 'date'
+  sort_reverse: true
 excerpt_separator: <!-- more -->
 search: true
