@@ -44,6 +44,7 @@ locales:
       About: "About"
       Guestbook: "Guestbook"
       Subscribe: "Subscribe"
+      Links: "links"
 
     jp:
       Aboutme: "About Me"
@@ -61,6 +62,7 @@ locales:
       Home: "Home"
       Google_search: "サイト内検索"
       About: "About"
+      Links: "相互リンク"
       #Guestbook: "Guestbook"
       #Subscribe: "Subscribe"
 
