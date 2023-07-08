@@ -28,6 +28,7 @@ tags: [Technology, 3dprinter, Creality]
 
 ## 想定環境
 - Creative3D（Creality K1向け純正スライサ）
+- RepRapper ABS
 
 ## 変更箇所
 プロファイルの出力方法が謎だったので変更箇所を記載しておきます．
