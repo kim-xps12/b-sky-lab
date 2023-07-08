@@ -11,14 +11,12 @@ categories: [Technology]
 tags: [Technology, 3dprinter, Creality]
 ---
 
-
+**How to setup ABS filament @Creality K1 !**
 
 ## はじめに
 
-**How to setup ABS filament @Creality K1 !**
-
 こんにちは，孔明です．
-今回はCreality Slicer ことCreative3DからCreality K1でABSを印刷する設定の備忘録です．
+今回はCreality Slicerの後継ことCreative3DからCreality K1でABSを印刷する設定の備忘録です．
 
 <!-- more -->
 
@@ -28,9 +26,11 @@ tags: [Technology, 3dprinter, Creality]
 
 ## 想定環境
 - Creative3D（Creality K1向け純正スライサ）
+- RepRapper ABS
+- ビルドプレートのりやケープを吹いておくことを推奨
 
 ## 変更箇所
-プロファイルの出力方法が謎だったので変更箇所を記載しておきます．
+HyperPLAのnormalプロファイルをベースに，以下のようにパラメータを変更しました．
 下記箇所を変更した際に，連動してスライサが自動更新する項目はそのまま受け入れます．
 
 - Quality/ Layer Height: 0.25
