@@ -31,6 +31,13 @@ tags: [Technology, 3dprinter, Creality]
 
 それでは．
 
+
+## 関連記事
+- [Creality K1 レビュー[高速造形機種の幕開け！]](https://kim-xps12.github.io/b-sky-lab/technology/2023/06/04/CrealityK1-01.html)
+- [Creality K1の水平レベリング調整](https://kim-xps12.github.io/b-sky-lab/technology/2023/06/26/CrealityK1-leveling.html)
+- [Creality K1のfluidd開放とタイムラプス設定](https://kim-xps12.github.io/b-sky-lab/technology/2023/07/02/CrealityK1-fluidd-timelapse.html)
+- [Creality K1でABSを印刷したい！](https://kim-xps12.github.io/b-sky-lab/technology/2023/07/08/CrealityK1-ABS.html)
+
 ## 参考
 4100円/kgのHyper PLA，販売リンクはこちら！最近はPrime対象で翌日に届いて助かっています．
 

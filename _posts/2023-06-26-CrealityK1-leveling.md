@@ -89,6 +89,11 @@ SSHのためのexploitをしたくない方はこちらの手順を推奨です�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CsIAJgCAxFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## 関連記事
+- [Creality K1 レビュー[高速造形機種の幕開け！]](https://kim-xps12.github.io/b-sky-lab/technology/2023/06/04/CrealityK1-01.html)
+- [Creality K1のfluidd開放とタイムラプス設定](https://kim-xps12.github.io/b-sky-lab/technology/2023/07/02/CrealityK1-fluidd-timelapse.html)
+- [Creality K1でABSを印刷したい！](https://kim-xps12.github.io/b-sky-lab/technology/2023/07/08/CrealityK1-ABS.html)
+
 ## おわりに
 いかがでしたか？本記事の手順でCreality K1のポテンシャルを引き出せたら嬉しいです．
 それでは．

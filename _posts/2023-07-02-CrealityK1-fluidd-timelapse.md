@@ -178,6 +178,11 @@ tags: [Technology, 3dprinter, Creality]
 1. Fluiddの左バーにTimelapseの項目が追加されたらOK．
     印刷開始で自動的に撮影開始，印刷終了で画像からレンダリングしてmp4ファイルが作成されるはずです．細かな設定は[公式ドキュメント](https://github.com/mainsail-crew/moonraker-timelapse/blob/main/docs/configuration.md)を参照してください．
 
+## 関連記事
+- [Creality K1 レビュー[高速造形機種の幕開け！]](https://kim-xps12.github.io/b-sky-lab/technology/2023/06/04/CrealityK1-01.html)
+- [Creality K1の水平レベリング調整](https://kim-xps12.github.io/b-sky-lab/technology/2023/06/26/CrealityK1-leveling.html)
+- [Creality K1でABSを印刷したい！](https://kim-xps12.github.io/b-sky-lab/technology/2023/07/08/CrealityK1-ABS.html)
+
 ## おわりに
 いかがでしたか？本記事の手順でCreality K1のポテンシャルを引き出せたら嬉しいです．
 それでは．
