@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>URL Appender</title>
+</head>
+<body>
+    <input type="text" id="urlInput" placeholder="Enter your URL here" onkeydown="handleKeyDown(event)">
+    <button onclick="appendToURL()">Append and Copy to Clipboard</button>
+    <div id="result"></div>
+
+    <script>
+        function appendToURL() {
+            var url = document.getElementById('urlInput').value;
+            var appendedURL = `<a href="${url}" target="_blank">\n` +
+                              `    <img src="${url}" width="75%" style="display: block; margin: auto;">\n` +
+                              `</a>`;
+
+            navigator.clipboard.writeText(appendedURL).then(function() {
+                console.log('Appending and copying to clipboard was successful!');
+                document.getElementById('result').innerHTML = appendedURL;
+            }, function(err) {
+                console.error('Could not copy text: ', err);
+            });
+        }
+
+        function handleKeyDown(event) {
+            if (event.keyCode === 13) {
+                appendToURL();
+            }
+        }
+    </script>
+</body>
+</html>
