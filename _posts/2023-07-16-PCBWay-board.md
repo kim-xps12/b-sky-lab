@@ -8,7 +8,7 @@ title: M5Stack用Feetechインターフェース基板を外注したレビュ�
 date: 2023-07-16 03:57
 firstposted: 2023-07-16 03:57
 categories: [Technology]
-tags: [Technology]
+tags: [Technology, M5Stack]
 ---
 
 **Outsourced Review of Feetech Interface Board for M5Stack (Sponsored by PCBWay)**
