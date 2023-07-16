@@ -11,6 +11,8 @@ categories: [Technology]
 tags: [Technology, M5Stack, SnakeRobot, Robotics]
 ---
 
+**How to use feetech serial servo (STS3215) without interface board**
+
 ## はじめに
 
 ちょうど半年ぶりの更新になってしまいました，こんにちは孔明です．

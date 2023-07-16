@@ -11,7 +11,7 @@ categories: [Technology]
 tags: [Technology, 3dPrinter, Creality]
 ---
 
-
+**How to setting Filament cost at Creality Slicer**
 
 ## はじめに
 こんにちは，孔明です．先日Creality K1をうっかりポチってしまったのがきっかけでCreality SlicerことCrealive 3Dを使い始めました．

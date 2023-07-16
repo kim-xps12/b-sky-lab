@@ -11,11 +11,9 @@ categories: [Technology]
 tags: [Technology, 3dPrinter, Creality]
 ---
 
-
+**How to adjust mesh leveling in Creality K1 !**
 
 ## はじめに
-
-**How to adjust mesh leveling in Creality K1 !**
 
 こんにちは，孔明です．またまたCreality K1ネタです．
 K1は歪センサでZエンドストップとmesh levelingを行いますが，デフォルトの設定では傾きを補正しきれないようでベッド左奥に向かうに連れてスカスカになる症状が出ていました．

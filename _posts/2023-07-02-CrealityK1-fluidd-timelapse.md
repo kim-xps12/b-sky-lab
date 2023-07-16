@@ -11,11 +11,9 @@ categories: [Technology]
 tags: [Technology, 3dPrinter, Creality]
 ---
 
-
+**How to setup Fluidd and timelapse component @Creality K1 !**
 
 ## はじめに
-
-**How to setup Fluidd and timelapse component @Creality K1 !**
 
 こんにちは，孔明です．引き続きCreality K1ネタです．
 今回は内蔵fluiddのWEB UIを利用可能にする手順と，そのfluiddにタイムラプスコンポーネントを追加＆利用可能にする手順の備忘録をお送りします．
