@@ -4,15 +4,14 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: 【第1回】Hecate II コイルガン --イントロダクション編-- (Part 1 Hecate II Coil Gun --introduction--)
+title: 【第1回】Hecate II コイルガン --イントロダクション編--
 date: 2020-11-29 1:36
 firstposted: 2020-11-29 1:34
 categories: [Creation]
 tags: [Creation, HecateII, Coilgun]
 ---
 
-
-
+**[Part 1] Hecate II Coil Gun --introduction--**
 ## Hecate II の紹介、みたいな
 
 遂に過去に作ったものたちの紹介記事を書き始めました。まずはHecate II コイルガンからでしょう。第0回である本記事は、Hecate IIって何？コイルガンてなに？おたくなんでそんな物つくったの？という話です。完成までどうぞお付き合いくださいませ。
