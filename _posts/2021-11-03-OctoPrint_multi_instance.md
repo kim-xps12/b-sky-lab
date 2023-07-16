@@ -8,7 +8,7 @@ title: OctoPrintをマルチインスタンス立ち上げて複数プリンタ�
 date: 2021-11-04 00:49
 firstposted: 2021-11-04 00:49
 categories: [Technology]
-tags: [Technology, 3dprinter, Raspberry_pi]
+tags: [Technology, 3dPrinter, Raspberry_pi]
 ---
 
 

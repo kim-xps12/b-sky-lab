@@ -8,7 +8,7 @@ title: Creality K1でABSを印刷したい！
 date: 2023-07-08 21:00
 firstposted: 2023-07-08 21:00
 categories: [Technology]
-tags: [Technology, 3dprinter, Creality]
+tags: [Technology, 3dPrinter, Creality]
 ---
 
 **How to setup ABS filament @Creality K1 !**

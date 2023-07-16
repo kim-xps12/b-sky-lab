@@ -8,7 +8,7 @@ title: OctoPrintでPrinter Profileのidentiferを編集したい！ (How to edit
 date: 2021-11-20 07:49
 firstposted: 2021-11-20 07:49
 categories: [Technology]
-tags: [Technology, 3dprinter, Raspberry_pi]
+tags: [Technology, 3dPrinter, Raspberry_pi]
 ---
 
 

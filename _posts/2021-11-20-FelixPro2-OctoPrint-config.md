@@ -8,7 +8,7 @@ title: OctoPrintにFelix Pro 2を接続する(How to setting OctoPrint for Felix
 date: 2021-11-20 08:15
 firstposted: 2021-11-20 08:15
 categories: [Technology]
-tags: [Technology, 3dprinter, Raspberry_pi]
+tags: [Technology, 3dPrinter, Raspberry_pi]
 ---
 
 

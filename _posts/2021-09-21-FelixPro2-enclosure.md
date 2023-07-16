@@ -8,7 +8,7 @@ title: Felix Pro 2に保温用エンクロージャをつけたい (How to make 
 date: 2021-09-21 21:37
 firstposted: 2021-09-21 21:37
 categories: [Technology]
-tags: [Technology, 3dprinter]
+tags: [Technology, 3dPrinter]
 ---
 
 

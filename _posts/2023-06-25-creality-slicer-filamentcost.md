@@ -8,7 +8,7 @@ title: Creality SlicerのFilament cost 設定
 date: 2023-06-25 14:00
 firstposted: 2023-06-25 14:00
 categories: [Technology]
-tags: [Technology, 3dprinter, Creality]
+tags: [Technology, 3dPrinter, Creality]
 ---
 
 

@@ -8,7 +8,7 @@ title: 企業様から3Dプリンタを頂いた話（Felix Pro 2まとめ）
 date: 2021-11-20 09:24
 firstposted: 2021-11-20 09:24
 categories: [Technology]
-tags: [Technology, 3dprinter]
+tags: [Technology, 3dPrinter]
 ---
 
 
