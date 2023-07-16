@@ -4,25 +4,33 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: 3Dプリンタ[Anycubic i3 mega]の紹介 (Review Anycubic i3 mega)
+title: 3Dプリンタ[Anycubic i3 mega]の紹介 ()
 date: 2021-01-14 03:17
 firstposted: 2021-01-14 03:17
 categories: [Technology]
 tags: [Review, Creation]
 ---
 
-
+**Review Anycubic i3 mega**
 
 ## そこまで高くないです
 
 Hecate IIコイルガンを作るで設計がある程度できてきたわけですが，ここで我が家にお迎えした3Dプリンタを紹介します．値段と造形サイズ／クオリティのバランスから，Anycubic製のi3 megaを購入しました．僕が買った3年前は5万円くらいだったのですが，いまAmazonで調べたら性能のあがった後継機が3.5万円で売ってました．
 
-Amazonの商品ページは[こちら](https://amzn.to/3oIWNVB)
+~~Amazonの商品ページは[こちら](https://amzn.to/3oIWNVB)~~
 
 <!-- more -->
 
+<a href="https://lh3.googleusercontent.com/pw/AIL4fc8NzsphBXpRixN9XSjGYAOWlg80FISDhlE0hY8KOrr-_NfTrClbXW1_mB2EPFJnKpcVKd1J3HC4OtCWaN4iTA17staQIBn1N6NhzumnkO9a3iJy_Ao_vwC4xuTNBDu1HvxZatov4M-F1r01eiLVNSWVCw=w808-h844-s-no?authuser=0" target="_blank">
+    <img src="https://lh3.googleusercontent.com/pw/AIL4fc8NzsphBXpRixN9XSjGYAOWlg80FISDhlE0hY8KOrr-_NfTrClbXW1_mB2EPFJnKpcVKd1J3HC4OtCWaN4iTA17staQIBn1N6NhzumnkO9a3iJy_Ao_vwC4xuTNBDu1HvxZatov4M-F1r01eiLVNSWVCw=w808-h844-s-no?authuser=0" width="50%" style="display: block; margin: auto;">
+</a>
 
-<a href="https://www.amazon.co.jp/ANYCUBIC-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8F%96%E6%89%B1%E8%AA%AC%E6%98%8E%E6%9B%B8%E4%BB%98%E5%B1%9E-Titan%E6%8A%BC%E5%87%BA%E6%A9%9F-3DPrinter/dp/B07J5P3SP9/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=anycubic+i3+mega&qid=1610561832&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMFRVMkQxU1NENkJNJmVuY3J5cHRlZElkPUEwMTc0OTcxMjYzWlZGVFpFWExIRyZlbmNyeXB0ZWRBZElkPUEzTE1KMjhWRTJCWTBEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=li3&tag=bskylab-22&linkId=fd2d87ec415f13d11c307eeac99452f3&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07J5P3SP9&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=bskylab-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=bskylab-22&language=ja_JP&l=li3&o=9&a=B07J5P3SP9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+2023年7月に見直したら販売終了していました．時代を感じます…
+今買うならこちらのkobraが良いかもしれません．
+
+<a href="https://amzn.to/43paQ6l" target="_blank">
+    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-hAOu0lvC8OJh34W9P0iHwUDBoXDRYiBLwpX9GCxvjj-_IwZgMLpntNAvLi4_mm6Wkd-Mij1W-SCbsSd399hFqzEnHzbdw6YchyLPrzTDoRVT-YwAFfN1yGFK5TpwfcgaVGxcVoD6017Eh2TVq5tB1OA=w864-h893-s-no?authuser=0" width="60%" style="display: block; margin: auto;">
+</a>
 
 最近の流行りだとFlashforge製のAdventure3とかがありますが，i3 megaに比べるとちょっと高くて造形サイズが小さめです．その分ノズル交換がお手軽だったり箱型だからABSが反りにくかったり面倒な調整少なめでキレイに造形できたりメリットもありますので，作りたいものに合わせて買うといいと思います．特に決まってない人は正直Adventure3の方が無難みたいなところある．
 

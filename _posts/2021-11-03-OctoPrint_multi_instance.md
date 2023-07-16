@@ -4,14 +4,14 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: OctoPrintをマルチインスタンス立ち上げて複数プリンタを接続したい！ (How to to launch multiple instance OctoPrint and connect multiple printers!)
+title: OctoPrintをマルチインスタンス立ち上げて複数プリンタを接続したい！
 date: 2021-11-04 00:49
 firstposted: 2021-11-04 00:49
 categories: [Technology]
 tags: [Technology, 3dPrinter, Raspberry_pi]
 ---
 
-
+**How to launch multiple instance OctoPrint and connect multiple printers!**
 
 ## はじめに
 Ender 3やAnycubic i3 mega，そして我が家のFelix Pro 2など，標準でWi-Fiデータ転送に対応していない3Dプリンタは割と多くあります．そんなときに便利なのがOctoPrint．Raspberry Piや適当なLinux PCにインストールしてプリンタと接続するだけで，Wi-Fi経由でのデータ転送や状態監視，カメラを取り付ければ映像配信やタイムラプスまで可能な便利ソフトです[[1]](https://octoprint.org/)．

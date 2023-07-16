@@ -4,14 +4,14 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: Rudi-NXにnvidia-docker2をインストールする (How to install nvidia-docker2 @ Rudi-NX)
+title: Rudi-NXにnvidia-docker2をインストールする
 date: 2021-07-28 03:29
 firstposted: 2021-07-28 03:29
 categories: [Technology]
 tags: [Technology, ROS, Jetson]
 ---
 
-
+**How to install nvidia-docker2 @ Rudi-NX**
 
 ## 概要
 [Connect Tech社のRudi-NX](https://connecttech.com/product/rudi-nx-embedded-system-nvidia-jetson-xavier-nx/)は，Jetson Xavier NXを搭載した組み込み用ボードです．豊富な端子類と何よりファンレス構造が特徴の製品ですね．これでにDockerを入れてROSを動かそうと思ったときに，rvizがうまく起動しませんでした．諸々調べたところ，JetsonのcudaにDocker内からアクセスする際にはnvidia-docker2を使うのが主流らしいのですが，なぜかRudi-NXにプリインストールされているJetpackにはこれが入っていなかったので頑張ってインストールしてみよう，という記事です．

@@ -4,14 +4,14 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: OctoPrintでPrinter Profileのidentiferを編集したい！ (How to edit Printer Profile identifer in OctoPrint !)
+title: OctoPrintでPrinter Profileのidentiferを編集したい！
 date: 2021-11-20 07:49
 firstposted: 2021-11-20 07:49
 categories: [Technology]
 tags: [Technology, 3dPrinter, Raspberry_pi]
 ---
 
-
+**How to edit Printer Profile identifer in OctoPrint !**
 
 ## はじめに
 OctoPrintでPrinter Profileの設定のうち，identiferを編集したいと思ったのですが，ブラウザで開くいつものUIからは編集できませんでした．

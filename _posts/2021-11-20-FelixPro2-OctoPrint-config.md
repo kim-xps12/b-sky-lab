@@ -4,14 +4,14 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: OctoPrintにFelix Pro 2を接続する(How to setting OctoPrint for Felix Pro 2)
+title: OctoPrintにFelix Pro 2を接続する
 date: 2021-11-20 08:15
 firstposted: 2021-11-20 08:15
 categories: [Technology]
 tags: [Technology, 3dPrinter, Raspberry_pi]
 ---
 
-
+**How to setting OctoPrint for Felix Pro 2**
 
 ## はじめに
 Felix Pro 2でOctoPrintを使って無線化しようとしたところ，デフォルトのプロファイルにはFelix Pro 2がなかったのでパラメータ類をまとめておきます．OctoPrint自体の導入は[このサイト](https://kurashi-note.com/post-8673/)や[このサイト](https://symamone-tec.com/octopi-procedure/)が詳しいです．

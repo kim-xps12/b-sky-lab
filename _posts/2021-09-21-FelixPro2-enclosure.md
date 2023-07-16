@@ -4,14 +4,14 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: Felix Pro 2に保温用エンクロージャをつけたい (How to make Enclosure for Felix Pro 2)
+title: Felix Pro 2に保温用エンクロージャをつけたい
 date: 2021-09-21 21:37
 firstposted: 2021-09-21 21:37
 categories: [Technology]
 tags: [Technology, 3dPrinter]
 ---
 
-
+**How to make Enclosure for Felix Pro 2**
 
 ## 概要
 Felix Pro 2は普通に使うとビルドプレートが外気に晒される構造です．しかし，僕はロボのボディを印刷するのにABSを愛用しており，3Dプリンタを少し触ったことがある方はおなじみかと思いますが，エンクロージャで保温して反りを抑えるのはマストなのです．純正でアクリル製のカッコいいエンクロージャが販売されていますが，驚くほど高価なのでダイソーの材料だけでお安く自作してみました．
