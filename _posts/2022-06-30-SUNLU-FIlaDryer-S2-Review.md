@@ -4,14 +4,14 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: SUNLU FilaDryer S2 レビュー
+title: SUNLU FilaDryer S2 レビュー (Suponsored Sunstella)
 date: 2022-06-30 09:20
 firstposted: 2022-06-30 09:20
 categories: [Technology]
 tags: [Technology, 3dPrinter, review]
 ---
 
-
+**Review SUNLU FilaDryer S2 (Suponsored Sunstella)**
 
 ## はじめに
 [本稿は株式会社サンステラ様の商品提供でお送りします．]
@@ -24,6 +24,12 @@ tags: [Technology, 3dPrinter, review]
 そのフィラメント乾燥機において，新型機がSUNLU社から発表され，現在日本では株式会社サンステラさんがクラウドファンディングを実施中です．本稿では，提供頂いた新型フィラメント乾燥機の効果や良い点/イマイチな点などをレビューしていきたいと思います．
 
 商品提供こそ頂いておりますが，ミリも忖度せずに素直な感想や実験結果を載せております．
+
+販売ページ：
+**[SUNLU FilaDryer S2 フィラメント乾燥機](https://c.affitch.com?ref=7ME5ZDYDWMYY&url=https://sunstella.co.jp/products/sunlu-filadryer-s2-1?)**
+<a href="https://c.affitch.com?ref=7ME5ZDYDWMYY&url=https://sunstella.co.jp/products/sunlu-filadryer-s2-1?" target="_blank">
+    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-75sSbCznc9z35kdEphiLuLZSOdtrRwT0o3m1kxOMUoP9t2FITHU64ueLiKQnOmxP_XigpIy6tC001aofQAqtgLL3Uoi9SBQtGPjwiPvoOxbKRb2ADLmglTfIQXoZfOBLw9Dq3O1vyVoyBTa1MALY-9g=w462-h462-s-no?authuser=0" width="60%" style="display: block; margin: auto;">
+</a>
 
 ## 外観
 
@@ -167,7 +173,14 @@ FilaDryer S2の特徴でもある全周加熱は非常に安心感がありま�
 
 海外製品へ簡単にアクセスできて便利になった反面でAmazonにも怪レい中華製品が蔓延する昨今，「代理店が責任を持って輸入し，ACアダプタに加えて本体側にまでPSE認証を通して販売されている」というのはかなり希少で重要な価値であると思います．安かろう悪かろうで中華製品の博打を打つのもおたく的には一興なのですが，やはり万人に勧めるならこのような安心できるルートで入手可能な品です．
 
-そんな安心かつ高い実用性のSUNLU FilaDryer S2は，現在GREENでクラウドファンディング受付中です．クラファン特典として早期割引が掛かりますので，気になる方はぜひこの機会にチェックしてみてください．リンクは[こちら](https://greenfunding.jp/lab/projects/6166)．
+~~そんな安心かつ高い実用性のSUNLU FilaDryer S2は，現在GREENでクラウドファンディング受付中です．クラファン特典として早期割引が掛かりますので，気になる方はぜひこの機会にチェックしてみてください．リンクは[こちら](https://greenfunding.jp/lab/projects/6166)．~~
+
+ご好評にてクラファンは終了しました．
+販売ページはこちら：
+**[SUNLU FilaDryer S2 フィラメント乾燥機](https://c.affitch.com?ref=7ME5ZDYDWMYY&url=https://sunstella.co.jp/products/sunlu-filadryer-s2-1?)**
+<a href="https://c.affitch.com?ref=7ME5ZDYDWMYY&url=https://sunstella.co.jp/products/sunlu-filadryer-s2-1?" target="_blank">
+    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-75sSbCznc9z35kdEphiLuLZSOdtrRwT0o3m1kxOMUoP9t2FITHU64ueLiKQnOmxP_XigpIy6tC001aofQAqtgLL3Uoi9SBQtGPjwiPvoOxbKRb2ADLmglTfIQXoZfOBLw9Dq3O1vyVoyBTa1MALY-9g=w462-h462-s-no?authuser=0" width="60%" style="display: block; margin: auto;">
+</a>
 
 あわせて，今回ご提供頂いた株式会社サンステラ様の公式通販「サンステラ3Dモール」もぜひご利用ください．安心できる高品質なフィラメントやアクセサリたちは，一度使えばその価値が体感できると思います．僕も最近は中華格安フィラメントからサンステラ様経由のフィラメントに移行しつつあります．高品質品の安定供給は最高です．リンクは[こちら](https://sunstella.co.jp/)．
 
