@@ -4,15 +4,21 @@
     <title>URL Appender</title>
 </head>
 <body>
+    <label for="imgSizeInput">Width [%]: </label>
+    <input type="number" id="imgSizeInput" placeholder="Image Size (%)" value="75">
+    <br>
+    <label for="imgSizeInput">URL: </label>
     <input type="text" id="urlInput" placeholder="Enter your URL here" onkeydown="handleKeyDown(event)">
+    <br>
     <button onclick="appendToURL()">Append and Copy to Clipboard</button>
     <div id="result"></div>
 
     <script>
         function appendToURL() {
             var url = document.getElementById('urlInput').value;
+            var imgSize = document.getElementById('imgSizeInput').value;
             var appendedURL = `<a href="${url}" target="_blank">\n` +
-                              `    <img src="${url}" width="75%" style="display: block; margin: auto;">\n` +
+                              `    <img src="${url}" width="${imgSize}%" style="display: block; margin: auto;">\n` +
                               `</a>`;
 
             navigator.clipboard.writeText(appendedURL).then(function() {
