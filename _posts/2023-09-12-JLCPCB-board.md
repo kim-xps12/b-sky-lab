@@ -28,10 +28,10 @@ tags: [Technology, KiCAD, M5Stack, JLCPCB]
 JLCPCBは中国の深センにある回路基板メーカーで，PCBプロトタイピングと小ロット生産を専門に扱っている会社です．2006年創業で，プリント基板の他に3Dプリントも請け負っているとのこと．我が家は3台の3Dプリンタが元気に稼働しているのでなかなか機会がなさそうですが，高品質との噂はよく聞くのでいつかお願いしてみたいですね．
 
 
-**[JLCPCB 公式ページ](https://jlcpcb.com/JPV)**: 部品実装が無料…良い響きです
+**[JLCPCB 日本語公式ページ](https://jlcpcb.com/JPV)**: 旧TwitterのフォローとDM送付で最大$54のクーポンです！激アツ！！
 
 <a href="https://jlcpcb.com/JPV" target="_blank">
-    <img src="https://lh3.googleusercontent.com/pw/AIL4fc8Y8kZop8dgRUjW5M83o6_vhguWwTlpDAOeYsZgnwsSjNo0FVLw6M0YFd7r-cQomtqF7xV0vCWzt9sPmRnbt-b5QirB2c4dSAd75tLKdstCGqyh_cEbFFVTtzbuUnBUJ2PQIHBkm5lIFOg3TRhSgSUwRA=w1867-h696-s-no?authuser=0" width="75%" style="display: block; margin: auto;">
+    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-tpoEnlkNaqfLAf7agcOvC96c_6Sj6IQjXTSuOQIONLiwpd4w4SBJ9NqsUA0-4i3Xuk0RGwclK-kqzY6J6QHAhehOSPDxFFFSMQCoBrtKGkWP-3uZoH1pbksXkClBlYFbJpNscPjQtA2xQDN3cCxkHRA=w1432-h670-s-no?authuser=0" width="75%" style="display: block; margin: auto;">
 </a>
 
 ## 基板設計
@@ -142,8 +142,8 @@ v2.2にして！ようやく！完動品になりました！！！
 
 皆様もぜひ基板外注で良い創作ライフを！
 
+**[JLCPCB 日本語公式ページ](https://jlcpcb.com/JPV)**
 <a href="https://jlcpcb.com/JPV" target="_blank">
-    <img src="https://lh3.googleusercontent.com/pw/AIL4fc8Y8kZop8dgRUjW5M83o6_vhguWwTlpDAOeYsZgnwsSjNo0FVLw6M0YFd7r-cQomtqF7xV0vCWzt9sPmRnbt-b5QirB2c4dSAd75tLKdstCGqyh_cEbFFVTtzbuUnBUJ2PQIHBkm5lIFOg3TRhSgSUwRA=w1867-h696-s-no?authuser=0" width="75%" style="display: block; margin: auto;">
+    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-tpoEnlkNaqfLAf7agcOvC96c_6Sj6IQjXTSuOQIONLiwpd4w4SBJ9NqsUA0-4i3Xuk0RGwclK-kqzY6J6QHAhehOSPDxFFFSMQCoBrtKGkWP-3uZoH1pbksXkClBlYFbJpNscPjQtA2xQDN3cCxkHRA=w1432-h670-s-no?authuser=0" width="75%" style="display: block; margin: auto;">
 </a>
-
 それでは．
