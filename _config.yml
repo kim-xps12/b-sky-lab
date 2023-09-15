@@ -14,7 +14,7 @@ twitter_username: B_SKY_Lab
 github_username:  kim-xps12
 disqus_shortname: B-SKY Lab
 favicon:     "/favicon.png"
-aboutme: おっはもーにん。このブログでは趣味の工作や研究で制作した物たち、ハマリどころだった技術メモなどを載せていきます。過去作たちも順次アップロード予定です、いえい。 # these are shown on aboutme-sidebar.
+aboutme: おっはもーにん。このブログでは趣味の工作や研究で制作した物たち、ハマリどころだった技術メモなどを載せていきます。過去作たちも順次アップロード予定です！ # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/icon_mini.jpg" #https://i.imgur.com/Mdc4szJl.jpg# your photo.
 google_analytics_key: #UA-182992327-1 # put YOUR key here to enable tracking! (blank to disable)
 
