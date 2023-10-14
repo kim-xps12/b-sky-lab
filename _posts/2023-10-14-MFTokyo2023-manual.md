@@ -20,7 +20,8 @@ MFTokyo2023にて弊ブースにご来場頂いた皆様，ありがとうござ
 ### ケーブル同封漏れのお詫びとご案内
 2023/10/14(土)にR/03-05 B-SKY Labブースにて，ほぼフルセットをご購入頂いた方へ．
 
-同日分の頒布ロットに，サーボ基板とM5Stack Basic V2.7を接続するためのケーブル同封が漏れていることが確認されました．詳細は[こちらのページ](https://kim-xps12.github.io/b-sky-lab/technology/2023/10/15/2023-10-15-MFTokyo2023-kit-missing.md)をご参照ください．
+同日分の頒布ロットに，サーボ基板とM5Stack Basic V2.7を接続するためのケーブル同封が漏れていることが確認されました．詳細は[こちらのページ](https://kim-xps12.github.io/b-sky-lab/technology/2023/10/15/MFTokyo2023-kit-missing.html)をご参照ください．
+
 この度はご迷惑をおかけし申し訳ございませんでした．
 
 ### 本体の組立
@@ -29,12 +30,13 @@ MFTokyo2023にて弊ブースにご来場頂いた皆様，ありがとうござ
 [GitHub リンク](https://github.com/meganetaaan/stack-chan/blob/dev/v1.0/README_ja.md)
 
 磁石吸着版のマニュアルはこちらに記載しています．
-[リンク](https://github.com/meganetaaan/stack-chan/blob/dev/v1.0/case/contributed/magnet_shell_basic_v2.7_SG90/README_for_shell_SG90_magnet_basic_v2.7_ja.md)
+[READMEリンク](https://github.com/meganetaaan/stack-chan/blob/dev/v1.0/case/contributed/magnet_shell_basic_v2.7_SG90/README_for_shell_SG90_magnet_basic_v2.7_ja.md)
 
 ### 基板の作成
+WIP
 
 ### ファームウェアの書き込み
-本品専用のコードをこのリポジトリ（[リンク](https://github.com/kim-xps12/stack-chan-tester-v2.7-portA)）
+本品専用のコードをこのリポジトリ（[GitHubリンク](https://github.com/kim-xps12/stack-chan-tester-v2.7-portA)）
 にご用意しています．まずはこれでサーボなどの動作確認をしていただき，そのあとにオリジナルのカスタマイズを行うのがおすすめです．
 
 開発環境にはVisual Studio CodeにPlatform IOを導入したものを想定しています．未構築の方は「Visual Studio Code Platform IO」で検索していただくと解説記事が豊富です．
