@@ -18,12 +18,13 @@ MFTokyo2023にて弊ブースにご来場頂いた皆様，ありがとうござ
 ## MFTokyo2023のB-SKY Labブースにてｽﾀｯｸﾁｬﾝキットをお買い上げ頂いた方へ
 
 組立の全体像はｽﾀｸﾁｬﾝ本家リポジトリをご参照ください！
-https://github.com/meganetaaan/stack-chan/blob/dev/v1.0/README_ja.md
+[GitHub リンク](https://github.com/meganetaaan/stack-chan/blob/dev/v1.0/README_ja.md)
 
 磁石吸着版のマニュアルはこちらに記載しています．
-https://github.com/meganetaaan/stack-chan/blob/dev/v1.0/case/contributed/magnet_shell_basic_v2.7_SG90/README_for_shell_SG90_magnet_basic_v2.7_ja.md
+[リンク](https://github.com/meganetaaan/stack-chan/blob/dev/v1.0/case/contributed/magnet_shell_basic_v2.7_SG90/README_for_shell_SG90_magnet_basic_v2.7_ja.md)
 
-ご相談はこちらのdiscord（ｽﾀｯｸﾁｬﾝサーバ）へどうぞ！: https://discord.com/invite/b2zYSezuHa
+ご相談はこちらのdiscord（ｽﾀｯｸﾁｬﾝサーバ）へどうぞ！: 
+[discord招待リンク](https://discord.com/invite/b2zYSezuHa)
 `@孔明` でメンションいただければ私に通知が届きます．
 
 
@@ -31,7 +32,7 @@ https://github.com/meganetaaan/stack-chan/blob/dev/v1.0/case/contributed/magnet_
 
 BOMは元データはこちらのリポジトリを参照ください．
 
-https://github.com/kim-xps12/m5stack_interface_board_feetech_sts
+[GitHubリンク](https://github.com/kim-xps12/m5stack_interface_board_feetech_sts)
 
 通販ページもあります．追加でご入用の方はぜひ！
-https://b-sky-lab.booth.pm/items/5083992
+[boothリンク](https://b-sky-lab.booth.pm/items/5083992)
