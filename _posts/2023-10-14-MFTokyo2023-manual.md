@@ -24,7 +24,7 @@ MFTokyo2023にて弊ブースにご来場頂いた皆様，ありがとうござ
 
 この度はご迷惑をおかけし申し訳ございませんでした．
 
-### 本体の組立
+### ボディの組立
 
 組立の全体像はｽﾀｸﾁｬﾝ本家リポジトリをご参照ください！
 [GitHub リンク](https://github.com/meganetaaan/stack-chan/blob/dev/v1.0/README_ja.md)
@@ -32,8 +32,24 @@ MFTokyo2023にて弊ブースにご来場頂いた皆様，ありがとうござ
 磁石吸着版のマニュアルはこちらに記載しています．
 [READMEリンク](https://github.com/meganetaaan/stack-chan/blob/dev/v1.0/case/contributed/magnet_shell_basic_v2.7_SG90/README_for_shell_SG90_magnet_basic_v2.7_ja.md)
 
-### 基板の作成
-WIP
+### 基板の組立
+
+基板のシルクに従って**部品の向きに注意しながら**部品をはんだ付けしてください．
+- PHコネクタ: 切り欠きが基板の内側（＝電解コンデンサに面した側）
+- 電解コンデンサ: シルクの白い塗りつぶし側にコンデンサ本体の負極（一般的には白い帯の側の足）
+- ピンヘッダ: 特に極性はありません
+
+<a href="https://lh3.googleusercontent.com/pw/ADCreHe8GtbQ0mFp8BR-X9BvPvAQlK55yvCNnKti5a-l7EXbhMNxPRZhA3iyLBxwScmZBRC40HhpKnMLsUixGGTYoEgnASCiB8IyBfKdIEeU3SEbSEalHSOmxkX-i6FeDnddUMDzUmWBnHwHJed8UebeCH5Z7A=w1020-h706-s-no?authuser=0" target="_blank">
+    <img src="https://lh3.googleusercontent.com/pw/ADCreHe8GtbQ0mFp8BR-X9BvPvAQlK55yvCNnKti5a-l7EXbhMNxPRZhA3iyLBxwScmZBRC40HhpKnMLsUixGGTYoEgnASCiB8IyBfKdIEeU3SEbSEalHSOmxkX-i6FeDnddUMDzUmWBnHwHJed8UebeCH5Z7A=w1020-h706-s-no?authuser=0" width="60%" style="display: block; margin: auto;">
+</a>
+
+ご自身でプリント基板を発注したい場合は，こちらにKiCADの元データが公開されています．MITライセンスです．
+[GitHubリンク](https://github.com/kim-xps12/m5stack_board_grove_port_servo/)
+
+### 配線
+次節にある専用テストファームを使用する場合は，以下のようにサーボのケーブルを接続してください．
+- S1: ヨー関節（横向きに首を振る関節の方）
+- S2: ピッチ関節（上下に首を振る関節の方）
 
 ### ファームウェアの書き込み
 本品専用のコードをこのリポジトリ（[GitHubリンク](https://github.com/kim-xps12/stack-chan-tester-v2.7-portA)）
