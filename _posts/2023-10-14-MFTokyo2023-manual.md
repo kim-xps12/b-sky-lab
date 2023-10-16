@@ -64,6 +64,14 @@ MFTokyo2023にて弊ブースにご来場頂いた皆様，ありがとうござ
 
 Discordのフレンド未登録の方からのDMは通知が届かずお返事が遅くなる恐れがあります．DMでのご連絡自体は問題ありませんので，チャンネルでメンションいただくか，[Twitter](https://twitter.com/eternalfriend17)のリプで「〇〇でDMしました！」とご一報いただけると確実です．
 
+### オススメのL字USBコネクタ
+我が家ではこれを愛用しています（動作を保証するものではありません）．
+
+[タイプC L字 USB C 変換アダプタ 2個 Type Cオスメス 90度 直角 40Gbps高速転送 5A急速充電100W 8K@60Hz映像出力 wuernine](https://amzn.to/46ScsYA)
+
+<a href="https://amzn.to/46ScsYA" target="_blank">
+    <img src="https://lh3.googleusercontent.com/pw/ADCreHdOTNoulbqTO6ucY8q4F8ZzgoSUlqBdNvTEJwep7CDqiJy9b89us7JFFLfRD0RnKZqLZt5BgKywtdxdbIZXaa7SBWr9xRtoU8dULvjZGsVpTYSV7rYz1RjwjstXNvOKamj7gj0vpx_HRd3kLpy3DNtBPg=w916-h884-s-no?authuser=0" width="30%" style="display: block; margin: auto;">
+</a>
 
 ## Feetechインターフェースボード（未組立品）をお買い上げ頂いた方へ
 
