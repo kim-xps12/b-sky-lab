@@ -81,9 +81,19 @@ Discordのフレンド未登録の方からのDMは通知が届かずお返事�
 
 ## Feetechインターフェースボード（未組立品）をお買い上げ頂いた方へ
 
-BOMは元データはこちらのリポジトリを参照ください．
+BOMや使い方，元データはこちらのリポジトリを参照ください．
 
 [GitHubリンク](https://github.com/kim-xps12/m5stack_interface_board_feetech_sts)
 
+動作確認用のサンプルコードはこちらで公開しています．
+[GitHubリンク](https://github.com/kim-xps12/m5stack_uart_feetech_sts/)
+
 通販ページもあります．追加でご入用の方はぜひ！
 [boothリンク](https://b-sky-lab.booth.pm/items/5083992)
+
+## Feetechインターフェースボード（完成品）をお買い上げ頂いた方へ
+
+動作確認用のサンプルコードはこちらで公開しています．
+[GitHubリンク](https://github.com/kim-xps12/m5stack_uart_feetech_sts/)
+
+完成品の通販ページも現在準備中です．
