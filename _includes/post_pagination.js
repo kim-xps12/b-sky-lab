@@ -1,4 +1,4 @@
-<script src="{{ "/js/jquery-1.12.4.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/jquery-3.7.1.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript">
 $(function(){
   $(document).keydown(function(e) {
