@@ -4,14 +4,14 @@ classes: wide
 toc: true
 sidebar:
   nav: "docs"
-title: MFTokyo2023頒布品の説明書ページ
-date: 2023-10-14 06:30
+title: MFTokyo2023 / NT東京頒布品の説明書ページ
+date: 2023-11-05 00:50
 firstposted: 2023-10-14 06:30
 categories: [Technology]
 tags: [Technology, M5Stack]
 ---
 ## はじめに
-MFTokyo2023にて弊ブースにご来場頂いた皆様，ありがとうございました！！本記事は各種頒布品の説明を記載しています．ぜひブクマしてご利用ください．
+MFTokyo2023およびNT東京にて弊ブースにご来場頂いた皆様，ありがとうございました！！本記事は各種頒布品の説明を記載しています．ぜひブクマしてご利用ください．
 
 <!-- more -->
 
@@ -79,7 +79,7 @@ Discordのフレンド未登録の方からのDMは通知が届かずお返事�
     <img src="https://lh3.googleusercontent.com/pw/ADCreHdOTNoulbqTO6ucY8q4F8ZzgoSUlqBdNvTEJwep7CDqiJy9b89us7JFFLfRD0RnKZqLZt5BgKywtdxdbIZXaa7SBWr9xRtoU8dULvjZGsVpTYSV7rYz1RjwjstXNvOKamj7gj0vpx_HRd3kLpy3DNtBPg=w916-h884-s-no?authuser=0" width="30%" style="display: block; margin: auto;">
 </a>
 
-## Feetechインターフェースボード（未組立品）をお買い上げ頂いた方へ
+## Feetechインターフェースボードをお買い上げ頂いた方へ
 
 BOMや使い方，元データはこちらのリポジトリを参照ください．
 
@@ -91,9 +91,11 @@ BOMや使い方，元データはこちらのリポジトリを参照くださ�
 通販ページもあります．追加でご入用の方はぜひ！
 [boothリンク](https://b-sky-lab.booth.pm/items/5083992)
 
-## Feetechインターフェースボード（完成品）をお買い上げ頂いた方へ
 
-動作確認用のサンプルコードはこちらで公開しています．
-[GitHubリンク](https://github.com/kim-xps12/m5stack_uart_feetech_sts/)
+## Grove PORTサーボ接続基板キット（M5Stack用）をお買い上げ頂いた方へ
 
-完成品の通販ページも現在準備中です．
+使い方，元データはこちらのリポジトリを参照ください．
+[GitHubリンク](https://github.com/kim-xps12/m5stack_board_grove_port_servo)
+
+通販ページもあります．追加でご入用の方はぜひ！
+[boothリンク](https://b-sky-lab.booth.pm/items/5194419)
