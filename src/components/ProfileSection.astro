@@ -1,0 +1,42 @@
+---
+---
+
+<section class="py-12">
+  <div class="flex flex-col md:flex-row items-center md:items-start gap-8">
+    <!-- Icon -->
+    <div class="shrink-0">
+      <img
+        src="/b-sky-lab/images/icon_mini.jpg"
+        alt="B-SKY Lab"
+        class="w-32 h-32 rounded-full border-2 border-base-200 shadow-md"
+      />
+    </div>
+
+    <!-- Bio -->
+    <div class="flex-1 text-center md:text-left">
+      <h2 class="text-2xl font-bold text-base-800 mb-1">孔明</h2>
+      <p class="text-sm text-base-400 mb-4">Yutaro Kimura / B-SKY Lab</p>
+
+      <p class="text-base-600 leading-relaxed mb-6">
+        ロボティクスをメインに活動するフリーランスエンジニア。趣味でロボット制作・基板設計・ガジェット制作を行い、
+        技術ブログやSNSで情報発信しています。ヘビ型ロボットや倒立振子など、動くものづくりが好きです。
+      </p>
+
+      <!-- Skills -->
+      <div>
+        <h3 class="text-sm font-semibold text-base-500 uppercase tracking-wide mb-3">Skills</h3>
+        <div class="flex flex-wrap gap-2 justify-center md:justify-start">
+          {[
+            'Robotics', 'Embedded Systems', 'PCB Design',
+            'ROS', 'M5Stack', 'C/C++', 'Python',
+            'CAD / 3D Printing', 'Servo Control',
+          ].map((skill) => (
+            <span class="inline-block bg-blue-50 text-accent border border-blue-100 rounded-full px-3 py-1 text-xs font-medium">
+              {skill}
+            </span>
+          ))}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

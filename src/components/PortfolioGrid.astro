@@ -1,0 +1,23 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import PortfolioCard from './PortfolioCard.astro';
+
+interface Props {
+  items: CollectionEntry<'portfolio'>[];
+}
+
+const { items } = Astro.props;
+---
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+  {items.map((item) => (
+    <PortfolioCard
+      title={item.data.title}
+      titleEn={item.data.titleEn}
+      description={item.data.description}
+      thumbnail={item.data.thumbnail}
+      slug={item.id.replace(/\.md$/, '')}
+      tags={item.data.tags}
+    />
+  ))}
+</div>

@@ -8,3 +8,9 @@ _site
 _posts/samples/*
 _posts/Picture/*
 _posts/*.txt
+
+# Astro
+node_modules/
+dist/
+.astro/
+node_modules
