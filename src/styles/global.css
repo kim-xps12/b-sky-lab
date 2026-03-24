@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-base-50 text-base-700 font-sans;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-base-800 font-bold;
+  }
+
+  a {
+    @apply text-accent hover:text-accent-dark transition-colors;
+  }
+}

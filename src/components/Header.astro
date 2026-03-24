@@ -1,0 +1,49 @@
+---
+const navItems = [
+  { label: 'Top', href: '/b-sky-lab/' },
+  { label: 'Portfolio', href: '/b-sky-lab/portfolio.html' },
+  { label: 'Blog Archive', href: '/b-sky-lab/blog.html' },
+  { label: 'About', href: '/b-sky-lab/about.html' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-base-200">
+  <div class="max-w-5xl mx-auto px-4 h-16 flex items-center justify-between">
+    <!-- Logo -->
+    <a href="/b-sky-lab/" class="flex items-center gap-2 text-base-800 hover:text-accent no-underline">
+      <img src="/b-sky-lab/favicon.png" alt="" class="h-8 w-8" />
+      <span class="font-bold text-lg">B-SKY Lab</span>
+    </a>
+
+    <!-- Desktop Nav -->
+    <nav class="hidden md:flex items-center gap-6">
+      {navItems.map(({ label, href }) => (
+        <a
+          href={href}
+          class:list={[
+            'text-sm font-medium no-underline transition-colors',
+            currentPath === href || (href !== '/b-sky-lab/' && currentPath.startsWith(href.replace('.html', '')))
+              ? 'text-accent'
+              : 'text-base-600 hover:text-accent',
+          ]}
+        >
+          {label}
+        </a>
+      ))}
+    </nav>
+
+    <!-- Hamburger Button (mobile) -->
+    <button
+      id="mobile-menu-btn"
+      class="md:hidden p-2 text-base-600 hover:text-accent"
+      aria-label="メニューを開く"
+      aria-expanded="false"
+    >
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path id="hamburger-icon" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+    </button>
+  </div>
+</header>

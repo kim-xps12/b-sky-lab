@@ -1,0 +1,45 @@
+---
+interface Props {
+  title: string;
+  titleEn: string;
+  description: string;
+  thumbnail: string;
+  slug: string;
+  tags?: string[];
+}
+
+const { title, titleEn, description, thumbnail, slug, tags } = Astro.props;
+---
+
+<a href={`/b-sky-lab/portfolio/${slug}.html`} class="group block no-underline">
+  <div class="bg-white border border-base-200 rounded-lg overflow-hidden transition-all duration-200 hover:border-accent hover:shadow-lg">
+    <!-- Thumbnail -->
+    <div class="aspect-video bg-base-100 overflow-hidden">
+      <img
+        src={thumbnail}
+        alt={title}
+        class="w-full h-full object-cover transition-transform duration-200 group-hover:scale-105"
+        loading="lazy"
+      />
+    </div>
+
+    <!-- Content -->
+    <div class="p-4">
+      <h3 class="text-base font-bold text-base-800 group-hover:text-accent transition-colors mb-1 line-clamp-2">
+        {title}
+      </h3>
+      <p class="text-xs text-base-400 mb-2">{titleEn}</p>
+      <p class="text-sm text-base-600 line-clamp-2">{description}</p>
+
+      {tags && tags.length > 0 && (
+        <div class="flex flex-wrap gap-1 mt-3">
+          {tags.slice(0, 4).map((tag) => (
+            <span class="inline-block bg-base-100 text-base-500 rounded px-2 py-0.5 text-xs">
+              #{tag}
+            </span>
+          ))}
+        </div>
+      )}
+    </div>
+  </div>
+</a>
