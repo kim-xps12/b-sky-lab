@@ -11,7 +11,7 @@ const posts = (await getCollection('blog')).sort(
 function postUrl(post: (typeof posts)[number]) {
   const filename = post.id.replace(/\.md$/, '');
   const match = filename.match(/^(\d{4})-(\d{2})-(\d{2})-(.+)$/);
-  if (!match) return '#';
+  if (!match) throw new Error(`Unexpected blog post filename format: "${post.id}"`);
   const [, year, month, day, slug] = match;
   const category = post.data.categories[0].toLowerCase();
   return `/b-sky-lab/${category}/${year}/${month}/${day}/${slug}.html`;
