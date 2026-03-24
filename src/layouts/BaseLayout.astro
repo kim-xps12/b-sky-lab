@@ -21,6 +21,7 @@ const {
 
 const siteTitle = title === 'B-SKY Lab' ? title : `${title} | B-SKY Lab`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const ogImageURL = new URL(ogImage, Astro.site);
 ---
 
 <!doctype html>
@@ -46,7 +47,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <link rel="canonical" href={canonicalURL} />
     <meta property="og:title" content={siteTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={ogImage} />
+    <meta property="og:image" content={ogImageURL} />
     <meta property="og:type" content={ogType} />
     <meta property="og:url" content={canonicalURL} />
     <meta name="twitter:card" content="summary" />
